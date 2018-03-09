@@ -21,7 +21,7 @@ Lilly? When you her asked the first time, she answered that she had already take
  - strategic: -1
  - accountability: -1
  - ambiguity: +2
- - total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
 You probably picked Lilly because you sensed that she would save yes, and that would solve your problem. The problem is that you often end up asking the same few people. And that make your most flexible people feel misused.   
@@ -38,7 +38,7 @@ So - all in all: A good choice - though such situations are never fun. But next 
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on Resources) 
+You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on strategic) 
 
 
 # Choice
@@ -48,7 +48,7 @@ Jonas? When you him asked the first time, he really wanted to help, but couldn't
  - strategic: -1
  - accountability: -1
  - ambiguity: +2
- - total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
 Many would have asked Lilly first, because they sensed that she would save yes, and that would solve your problem. As you know, the problem is that you often end up asking the same few people. And that make your most flexible people feel misused.    
@@ -66,7 +66,7 @@ So - all in all: A good choice - though such situations are never fun.
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on Resources) 
+You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on strategic) 
 
 
 
@@ -77,7 +77,7 @@ No-one? Though it's likely to cost a slightly lower output tomorrow, this is wha
  - strategic: +0
  - accountability: +0
  - ambiguity: -4
- - total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
 You gave up too early! That option must be reserved to cases where there are really no more options available. 
@@ -105,7 +105,7 @@ Achmed? When you him asked the first time, he pointed out that its Friday tomorr
  - strategic: -1
  - accountability: -2
  - ambiguity: +2
- - total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
 Picking Achmed was a poor choice as we must respect that the Friday prayers are important to Muslims. So it demonstrated a poor understanding of his cultural values. 
@@ -123,5 +123,5 @@ But great that you did not give up. That option must be reserved to cases where 
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed  in Achmed's engagement (-2) as you spent some time convincing Achmed to accept (-1 on Resources) 
+You experienced a positive effect in output (+2) but it costed  in Achmed's engagement (-2) as you spent some time convincing Achmed to accept (-1 on strategic) 
 
