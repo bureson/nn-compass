@@ -3,8 +3,8 @@
  - Initial Scene: intro
 
 # Variables
- - Resources: 100
- - Engagement: 100
- - Output: 100
- - what ever: 100
+ - strategic: 100
+ - accountability: 100
+ - ambiguity: 100
+ - total: 100
 
