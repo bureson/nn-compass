@@ -8,3 +8,8 @@
  - ambiguity: 100
  - total: 100
 
+# Exports
+ - strategic
+ - accountability
+ - ambiguity
+ 
