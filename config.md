@@ -9,7 +9,7 @@
  - total: 100
 
 # Exports
- - strategic
- - accountability
- - ambiguity
+ - strategic: true
+ - accountability: true
+ - ambiguity: true
  
