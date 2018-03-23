@@ -1,6 +1,7 @@
 # Config
  - Title: Daily Dilemmas
  - Initial Scene: intro
+ - Max Value: 200
 
 # Variables
  - strategic: 100
@@ -19,5 +20,3 @@
 - accountability: true
 - ambiguity: true
 
-# Values
- - max: 200
