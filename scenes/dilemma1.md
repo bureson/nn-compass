@@ -1,5 +1,5 @@
 # Config
- - Title: Who to ask to take an extra shift?
+ - Title: Dilemma 1
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma2
 
