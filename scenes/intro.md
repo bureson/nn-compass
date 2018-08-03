@@ -1,6 +1,6 @@
 # Config
  - Title: Introduction to DAILY DILEMMAS
- - Next: Dilemma1
+ - Next: dilemma1
  - Image: https://flemmingfog.github.io/spike/donut.jpg
 
 # Description
