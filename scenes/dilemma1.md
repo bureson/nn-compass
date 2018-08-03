@@ -1,21 +1,21 @@
 # Config
- - Title: Dilemma 1
+ - Title: Dilemma 1: Your specialist wants to pursue another career
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma2
 
 # Description
-There is a flu going round, and you just received a message that Joan will not be coming in tomorrow morning. 
+Lone has been working in your team for the past two years. She's highly skilled and the only one who knows how to manage a core process in your team. 
 
-If you cannot find a replacement, the monthly production targets are in risk of not being met, as the lack of the extra set of hands is likely to slow down the production. 
+Your team has been very busy this past year, so you haven't had a chance to plan how her knowledge is going to be shared with the rest of the team. 
 
-But: You have already asked around, and no-one wants to take the shift. 
+At her mid-year year review you are surprised to learn that she wants to transition into leadership in a different part of Novo Nordisk. 
 
-There is no way around it: You have to go back and ask one who have already turned you down the first time you asked. 
+Based on your experience working with her, you don't think she'd be a good fit for a leadership role; she really struggles to delegate work and set direction. In the meeting she tells you that she's strongly considering applying for the leadership position and she would like you to be her referral. 
 
-Who will you contact next?
+How do you respond?
 
 # Choice
-Lilly? When you her asked the first time, she answered that she had already taken on two extra shifts in the past 3 weeks, so she did not want to take another one! (but you have a sense that you could talk her into it…)
+ I don’t think Lone would thrive in a leadership role, but I acknowledge that this is something she wants to do. So I accept to be her referral. I also tell her that I need her to work with me and the team over the next three months to ensure that her knowledge about the core process is transferred to the team. 
 
 # Variables
  - strategic: -1
@@ -24,17 +24,9 @@ Lilly? When you her asked the first time, she answered that she had already take
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-You probably picked Lilly because you sensed that she would save yes, and that would solve your problem. The problem is that you often end up asking the same few people. And that make your most flexible people feel misused.   
-
-But, in all fairness, you did not have many good choices. It would have been just as good if you had asked Jonas - maybe someone else could have taken the trip to the dentist? 
-
-Asking Lilly or Jonas lead to the same score. 
-
-But it was good that you did not pick Achmed, as we must respect that the Friday prayers are important to Muslims. 
-
-Also good that you did not pick to give up. That option must be reserved to cases where there are really no more options available. 
-
-So - all in all: A good choice - though such situations are never fun. But next time, ask Jonas - so it's not always Lilly that solves the problem. 
+It's great that you're being supportive of Lone's growth within Novo Nordisk, while also keeping the business' goals in mind. 
+However, if you think that Lone isn't fit for a leadership role you ought to have a conversation with her about her motivation to transition into leadership and be more frank about how you see her potential to become a leader. 
+This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
 
 # Outcome
 
@@ -42,7 +34,9 @@ You experienced a positive effect in output (+2) but it costed some in Lilly's e
 
 
 # Choice
-Jonas? When you him asked the first time, he really wanted to help, but couldn't because he had promised to drive his son to the dentist tomorrowself
+I sit down with Lone and decide to give her my sincere feedback. I exemplify why I don't think she's ready yet and suggest that we develop a detailed 6-month development plan for her where she can get exposure to and training in the needed leadership skills. 
+If she still wants to take on a leadership role after these six months, and has demonstrated growth, I will be happy to give her my full support and be her referral. 
+Getting Lone to stay in my team for a few more months would also buy me time to get the rest of the team more familiar with the core process.  
 
 # Variables
  - strategic: -1
@@ -51,17 +45,8 @@ Jonas? When you him asked the first time, he really wanted to help, but couldn't
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-Many would have asked Lilly first, because they sensed that she would save yes, and that would solve your problem. As you know, the problem is that you often end up asking the same few people. And that make your most flexible people feel misused.    
-
-So you decided to try with Jonas, which was a good call (maybe someone else could have taken the trip to the dentist?) 
-
-Asking Lilly or Jonas lead to the same score. 
-
-But it was good that you did not pick Achmed, as we must respect that the Friday prayers are important to Muslims. 
-
-Also good that you did not pick to give up. That option must be reserved to cases where there are really no more options available. 
-
-So - all in all: A good choice - though such situations are never fun. 
+Great decision. It's always good to be curious about your employees' development goals, and offer constructive and sincere feedback along the way. One possible challenge is that by committing to developing Lone's leadership skills over the next six months you might reduce your team's productivity, as Lone will not be fully focused on her core tasks. 
+By developing her leadership skills you will have to spend additional resources. This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
 
 
 # Outcome
@@ -71,7 +56,7 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 
 
 # Choice
-No-one? Though it's likely to cost a slightly lower output tomorrow, this is what happens from time to time.
+Lone is a valuable team member and I would hate to see her leave. I sit down with her and ask her in more detail about her motivation to pursue a leadership role. Perhaps there are opportunities for her to stay in my team and take on more informal leadership responsibilities that we haven’t explored yet.
 
 # Variables
  - strategic: +0
@@ -80,16 +65,9 @@ No-one? Though it's likely to cost a slightly lower output tomorrow, this is wha
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-You gave up too early! That option must be reserved to cases where there are really no more options available. 
-
-Many would have asked Lilly first, because they sensed that she would save yes, and that would solve your problem. As you know, the problem with this are that you often end up asking the same few people which can make your most flexible people feel misused.   
-
-You could also have tried Jonas (maybe someone else could have taken the trip to the dentist?) 
-
-Asking Lilly or Jonas was the best choices, and lead to the same score. 
-
-But it was good that you did not pick Achmed, as we must respect that the Friday prayers are important to Muslims. 
-
+It's good that you are curious about Lone's development goals and invite her to think about solutions within your team. This could be the best course of action, but you should be prepared that Lone may still want to leave your team. 
+In that case, think about ways to offer her sincere and constructive feedback and consider how to minimise the impact of her departure on your team's productivity and critical processes. 
+This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
 
 
 # Outcome
@@ -97,31 +75,4 @@ But it was good that you did not pick Achmed, as we must respect that the Friday
 You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
-
-# Choice
-Achmed? When you him asked the first time, he pointed out that its Friday tomorrow, and that he had planned to visit his mosque. 
-
-# Variables
- - strategic: -1
- - accountability: -2
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
-
-# Feedback
-Picking Achmed was a poor choice as we must respect that the Friday prayers are important to Muslims. So it demonstrated a poor understanding of his cultural values. 
-In this case, he would have said yes to your request - but it would have made him feel bad, so it there was a large price on his engagement to be paid. 
-
-Many would have asked Lilly first, because they sensed that she would save yes, and that would solve your problem. As you know, the problem with this are that you often end up asking the same few people which can make your most flexible people feel misused.   
-
-You could also safely have asked Jonas (maybe someone else could have taken the trip to the dentist?) 
-
-Asking Lilly or Jonas lead to the same score. 
-
-But great that you did not give up. That option must be reserved to cases where there are really no more options available. 
-
-
-
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed  in Achmed's engagement (-2) as you spent some time convincing Achmed to accept (-1 on strategic) 
 
