@@ -1,7 +1,6 @@
 # Config
- - Title: Congratulations
+ - Title: Feedback is ready
  - Video: https://www.youtube.com/watch?v=S8fbHm0yYQI
 
 # Description
-You've completed the daily dilemma.
-You can now go on with your day.
+Thanks for completing the dilemmas! Click complete to see feedback.
