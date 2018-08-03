@@ -1,5 +1,5 @@
 # Config
- - Title: Introduction to DAILY DILEMMAS
+ - Title: Introduction to Competency Compass Dilemmas
  - Next: dilemma1
  - Image: https://flemmingfog.github.io/spike/donut.jpg
 
