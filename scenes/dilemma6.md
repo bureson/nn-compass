@@ -1,19 +1,17 @@
 # Config
- - Title: Dilemma 6: Dealing with a confrontation
+ - Title: Dilemma 6: Problem solving and addressing low quality A3s
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma7
 
 # Description
-You're conducting a mid-year review with Hanne, a trusted colleague, who has been with your team for more than two years. 
 
-In the meeting, Hanne brings up a situation three months ago where you didn't involve her in a decision regarding a work process that she is part of. She explains that she felt left out.
-
-You know that Hanne has a big need to be involved. However, you sometimes get frustrated with too many meetings and too much talking. In this case, you also think that the decision was so minor that a meeting with Hanne wasn't really necessary.
+Lisa, your GMP coordinator, tells you that the quality of A3s in your team varies drastically, and she thinks it might be because of lack of competencies. 
+To improve the overall quality of A3s, Lisa suggests to make the two most skilled team members responsible for driving all future A3 activities. Lisa volunteers to lead this initiative.
 
 How do you respond?
 
 # Choice
-I thank Hanne for bringing up the situation. I explain that I had made the decision quickly because I thought it was an insignificant change. I apologise that she felt left out of the process and ask her what we can do in the future to avoid these situations.
+I thank Lisa for making this suggestion and for taking the initiative to improve the quality of our A3s. I encourage her to approach the problem more systematically apply systematic problem solving before she decides on a particular solution so that she makes sure she addresses the root cause of the low quality A3s. 
 
 # Variables
  - strategic: -1
@@ -23,9 +21,7 @@ I thank Hanne for bringing up the situation. I explain that I had made the decis
 
 # Feedback
 
-This is a very emphathetic response towards Hanne. However, by not addressing your different working style preferences there's a risk that you'll become increasingly frustrated with Hanne's need for involvement over time. 
-Consider talking more openly to Hanne about your different preferences and discuss ways to work together around these. 
-This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+Great choice.Your support of Lisa's initiative is very empowering and it's great that you encourage her to solve the problem to root cause in a systematic way. You might also consider coaching her through the problem solving. This is a dilemma of developing team members and solving problems systematically to root cause.
 
 # Outcome
 
@@ -33,7 +29,7 @@ You experienced a positive effect in output (+2) but it costed some in Lilly's e
 
 
 # Choice
-I share with Hanne that we might have different working style preferences when it comes to being involved and engaging others in decisions about work processes. I ask Hanne what it means to her to be involved in a decision, and invite her to reflect on how we might avoid a similar situation in the future, while balancing both our working style preferences. 
+I thank Lisa for the suggestion and initiative. I tell her that it's important to identify the root cause of the problem, so I will take a look at the A3s myself and get back to her when I've identified the best solution.
 
 # Variables
  - strategic: -1
@@ -42,7 +38,7 @@ I share with Hanne that we might have different working style preferences when i
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+It's great that you want to explore the issue of low-quality A3s in more detail yourself. However, to further develop Lisa you might want to consider ways to engage her in the entire process, e.g. by involving her more in your own diagnosis of the problem. This is a dilemma of developing team members and solving problems systematically and to root cause.
 
 # Outcome
 
@@ -51,7 +47,7 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 
 
 # Choice
-After listening to Hanne, I acknowledge that it must have been a frustrating experience. However, I also explain that I don't always involve everyone in a decision unless it's important as it can impact efficiency and execution in the team. I tell Hanne that I need her to trust my ability to make these decisions, and I encourage her to bring up issues like these earlier so we can clear out any confusion sooner rather than later.
+I thank Lisa for the suggestion. However, I tell her that I'm not entirely sure this solution addresses the root cause of the problem. I therefore propose that we schedule a follow-up meet where we to discuss variation in the quality of the A3s more systematically can do a systematic problem solving together and lay out our the options for different solutions that address the low quality A3s.
 
 # Variables
  - strategic: +0
@@ -60,7 +56,7 @@ After listening to Hanne, I acknowledge that it must have been a frustrating exp
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
- Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+Good choice. You are right to suggest a systematic problem solving before committing to a particular solution, and it's great that you're inviting Lisa to be a part of this. As an AM, it's important to be able to coach and delegate work to your employees. This is a dilemma of developing team members and solving problems systematically and to root cause.
 
 
 
@@ -68,6 +64,22 @@ After listening to Hanne, I acknowledge that it must have been a frustrating exp
 
 You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
+# Choice
+I thank Lisa for raising this issue but tell her that I'm concerned about narrowing down A3 competencies to only two employees as this could limit the rest of the team's development. Instead, I let her know that I'll take an action sticker to the AM performance board with a suggestion of a team-wide A3 re-training. 
 
+# Variables
+ - strategic: +0
+ - accountability: +0
+ - ambiguity: -4
+ - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+
+# Feedback
+Your focus on developing your team's capabilities in the long term is great. However, you should consider doing a systematic problem solving before suggesting to do a team-wide re-training. Perhaps the issue of low quality A3s is not due to lack of poor competencies. This is a dilemma of developing team members and solving problems systematically and to root cause.
+
+
+
+# Outcome
+
+You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
