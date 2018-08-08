@@ -1,19 +1,19 @@
 # Config
- - Title: Dilemma 9: Dealing with a confrontation
+ - Title: Dilemma 9: Visual Management
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma10
 
 # Description
-You're conducting a mid-year review with Hanne, a trusted colleague, who has been with your team for more than two years. 
+A month ago you were appointed as a new leader in a team of 10 employees. Before you joined, the team was without a leader for three months due to internal restructuring. 
 
-In the meeting, Hanne brings up a situation three months ago where you didn't involve her in a decision regarding a work process that she is part of. She explains that she felt left out.
+The team has been responsible for the daily board meetings, but you don't think these meetings are creating as much value as they could. The board's five KPI's have been red for a long time, and there are too many complex action items that never get done.
 
-You know that Hanne has a big need to be involved. However, you sometimes get frustrated with too many meetings and too much talking. In this case, you also think that the decision was so minor that a meeting with Hanne wasn't really necessary.
+In response, you decide to focus on visual board management in the team.  
 
-How do you respond?
+How do you do this?
 
 # Choice
-I thank Hanne for bringing up the situation. I explain that I had made the decision quickly because I thought it was an insignificant change. I apologise that she felt left out of the process and ask her what we can do in the future to avoid these situations.
+I want to get to know the team even better before I implement any changes to the team's processes. I decide to spend  more time my first month getting to know the team and its processes better, and if the problem persists I'll come up with an improvement plan later.
 
 # Variables
  - strategic: -1
@@ -23,9 +23,7 @@ I thank Hanne for bringing up the situation. I explain that I had made the decis
 
 # Feedback
 
-This is a very emphathetic response towards Hanne. However, by not addressing your different working style preferences there's a risk that you'll become increasingly frustrated with Hanne's need for involvement over time. 
-Consider talking more openly to Hanne about your different preferences and discuss ways to work together around these. 
-This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+ It's great that you want to get to know your team better before deciding whether it's relevant to change the design of the performance board. However, as the KPI's are red, you don't know whether the status reflects important challenges that need to be addressed soon. This is a dilemma of creating collaborative teams, simplifying processes, setting clear goals and using PS Production System to integrate relevant Best Practices in own area.
 
 # Outcome
 
@@ -33,7 +31,7 @@ You experienced a positive effect in output (+2) but it costed some in Lilly's e
 
 
 # Choice
-I share with Hanne that we might have different working style preferences when it comes to being involved and engaging others in decisions about work processes. I ask Hanne what it means to her to be involved in a decision, and invite her to reflect on how we might avoid a similar situation in the future, while balancing both our working style preferences. 
+It's time for me to take a more active role in the daily board meetings. Going forward, I will lead the meetings and set a more clear direction for the team by demonstrating how KPI's and action items can be reached more effectively. 
 
 # Variables
  - strategic: -1
@@ -42,8 +40,8 @@ I share with Hanne that we might have different working style preferences when i
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
-
+ It's very good that you take action and prioritise to lead the performance board meetings. Keep in mind that for a performance board to be truly effective it should be backed up by all team members. By choosing this approach you could risk that you don't have the team's full support to your changes. This is a dilemma of creating collaborative teams, simplifying processes, setting clear goals and using PS Production System to integrate relevant Best Practices in own area.
+ 
 # Outcome
 
 You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on strategic) 
@@ -51,7 +49,8 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 
 
 # Choice
-After listening to Hanne, I acknowledge that it must have been a frustrating experience. However, I also explain that I don't always involve everyone in a decision unless it's important as it can impact efficiency and execution in the team. I tell Hanne that I need her to trust my ability to make these decisions, and I encourage her to bring up issues like these earlier so we can clear out any confusion sooner rather than later.
+I invite the team for a collaborative workshop where we can define new KPIs that are more relevant and realistic for the team. 
+
 
 # Variables
  - strategic: +0
@@ -60,7 +59,7 @@ After listening to Hanne, I acknowledge that it must have been a frustrating exp
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
- Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+Great choice. You choose to do something about the issue of low value from the performance board meetings as well as the red KPI's. A workshop that ensures buy-in from team members could be a good starting point. Remember that you are responsible for ensuring that the outcome is in line with the overall organisational priorities. This is a dilemma of creating collaborative teams, simplifying processes, setting clear goals and using PS Production System to integrate relevant Best Practices in own area.
 
 
 
