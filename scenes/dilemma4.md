@@ -1,19 +1,19 @@
 # Config
- - Title: Dilemma 4: Dealing with a confrontation
+ - Title: Dilemma 4: Integrating a foreign team member into your team 
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma5
 
 # Description
-You're conducting a mid-year review with Hanne, a trusted colleague, who has been with your team for more than two years. 
+Olga was recruited to your team from Russia three months ago. She has a highly specialised profile that is needed in your team. 
 
-In the meeting, Hanne brings up a situation three months ago where you didn't involve her in a decision regarding a work process that she is part of. She explains that she felt left out.
+When Olga joined the team, you asked everyone on your team to make English the common language in the team.
 
-You know that Hanne has a big need to be involved. However, you sometimes get frustrated with too many meetings and too much talking. In this case, you also think that the decision was so minor that a meeting with Hanne wasn't really necessary.
+ However, you're noticing that this doesn't always happen. In fact, everyone besides Olga speaks Danish most of the time, as it turns out they don't feel comfortable expressing themselves in English. Meanwhile, Olga is beginning to come in late to work , skips social gatherings and she doesn't come for coffee breaks with the rest of the team.
 
-How do you respond?
+What do you do?
 
 # Choice
-I thank Hanne for bringing up the situation. I explain that I had made the decision quickly because I thought it was an insignificant change. I apologise that she felt left out of the process and ask her what we can do in the future to avoid these situations.
+I understand that my Danish team members are not comfortable speaking English all the time. Therefore, I tell my team that going forward everyone will only have to communicate in English during team meetings, in shared emails and conversations that Olga participates in. When Olga is not involved, they are free to communicate in the language they prefer.
 
 # Variables
  - strategic: -1
@@ -23,9 +23,7 @@ I thank Hanne for bringing up the situation. I explain that I had made the decis
 
 # Feedback
 
-This is a very emphathetic response towards Hanne. However, by not addressing your different working style preferences there's a risk that you'll become increasingly frustrated with Hanne's need for involvement over time. 
-Consider talking more openly to Hanne about your different preferences and discuss ways to work together around these. 
-This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+It's good that you're mindful of your Danish team members' emotions. However, it might be at the expense of Olga's wellbeing. If you tell your team that they can speak Danish when Olga is not around, there is a risk that they will try to avoid her more.  This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
 
 # Outcome
 
@@ -33,7 +31,7 @@ You experienced a positive effect in output (+2) but it costed some in Lilly's e
 
 
 # Choice
-I share with Hanne that we might have different working style preferences when it comes to being involved and engaging others in decisions about work processes. I ask Hanne what it means to her to be involved in a decision, and invite her to reflect on how we might avoid a similar situation in the future, while balancing both our working style preferences. 
+I worry that forcing my Danish team members to speak English will have a negative infuence on the team spirit and make them participate less in shared discussions. Instead, I try to set a good example myself by always speaking English, but I allow my Danish team members to decide for themselves which language they communicate in. Over time I am sure they will all feel more comfortable speaking to each other in English.
 
 # Variables
  - strategic: -1
@@ -42,7 +40,7 @@ I share with Hanne that we might have different working style preferences when i
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+It's a good reflection that it might have a negative infuence on the team if you force them to speak English. However, if you let your team choose themselves what language they speak, you are not addressing the root cause of the problem. In this scenario, your Danish team members will likely continue to speak Danish and Olga will feel increasingly left out. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
 
 # Outcome
 
@@ -51,7 +49,7 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 
 
 # Choice
-After listening to Hanne, I acknowledge that it must have been a frustrating experience. However, I also explain that I don't always involve everyone in a decision unless it's important as it can impact efficiency and execution in the team. I tell Hanne that I need her to trust my ability to make these decisions, and I encourage her to bring up issues like these earlier so we can clear out any confusion sooner rather than later.
+The only way to include Olga in the team is to make all team members speak English, although my Danish team members might not be happy with this decision in the short term. If I make English optional or dependent on Olga's presence, my Danish team members are likely to avoid Olga altogether. I contact HR to get support in making this happen in the best way possible. I am convinced that this is in the long term interest of my team's wellbeing. 
 
 # Variables
  - strategic: +0
@@ -60,7 +58,7 @@ After listening to Hanne, I acknowledge that it must have been a frustrating exp
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
- Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
+This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually benefit the whole team, including Olga, who is an important member of your team. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
 
 
 
