@@ -1,7 +1,7 @@
 # Config
  - Title: Dilemma 2: Dealing with a confrontation
  - Image: https://flemmingfog.github.io/spike/woman.jpg
- - Next: outro
+ - Next: dilemma3
 
 # Description
 You're conducting a mid-year review with Hanne, a trusted colleague, who has been with your team for more than two years. 
