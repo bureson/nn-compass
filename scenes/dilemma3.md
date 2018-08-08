@@ -1,21 +1,19 @@
 # Config
- - Title: Dilemma 3: Your specialist wants to pursue another career
+ - Title: Dilemma 3: Disagreeing with a direct manager
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma4
 
 # Description
-Lone has been working in your team for the past two years. She's highly skilled and the only one who knows how to manage a core process in your team. 
+Two specialized members of your team are working on a project that has a deadline in two weeks. Vivian, your direct manager, asks you to put the project on hold because she needs the two team members to work on a new project, which has a higher priority.  
 
-Your team has been very busy this past year, so you haven't had a chance to plan how her knowledge is going to be shared with the rest of the team. 
+You worry about this decision, and tell her that delaying the current project could lead to serious challenges for a wide range of internal stakeholders who rely on the outputs of the project to be completed on time. You also worry how your two team members might react.
 
-At her mid-year year review you are surprised to learn that she wants to transition into leadership in a different part of Novo Nordisk. 
+Vivian insists that the the new project needs to start immediately.
 
-Based on your experience working with her, you don't think she'd be a good fit for a leadership role; she really struggles to delegate work and set direction. In the meeting she tells you that she's strongly considering applying for the leadership position and she would like you to be her referral. 
-
-How do you respond?
+What do you do?
 
 # Choice
- I don’t think Lone would thrive in a leadership role, but I acknowledge that this is something she wants to do. So I accept to be her referral. I also tell her that I need her to work with me and the team over the next three months to ensure that her knowledge about the core process is transferred to the team. 
+After talking to her, I send her a follow-up e-mail which outlines the exact consequences of her request, as I see it. I ask her to reconsider the decision, or at least postpone it by another two weeks until we are done with the current project. 
 
 # Variables
  - strategic: -1
@@ -24,9 +22,9 @@ How do you respond?
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-It's great that you're being supportive of Lone's growth within Novo Nordisk, while also keeping the business' goals in mind. 
-However, if you think that Lone isn't fit for a leadership role you ought to have a conversation with her about her motivation to transition into leadership and be more frank about how you see her potential to become a leader. 
-This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
+Pushing back on your direct manager's decision can be healthy. However, in this case Vivian has made it clear that the shift needs to happen. You have full information about the importance of your current project, but she could have information about the importance of the new project. 
+Consider asking Vivian for further clarification on the urgency of the new project as you might delay critical work processes that are of higher priority to the business. 
+This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
 # Outcome
 
@@ -34,9 +32,7 @@ You experienced a positive effect in output (+2) but it costed some in Lilly's e
 
 
 # Choice
-I sit down with Lone and decide to give her my sincere feedback. I exemplify why I don't think she's ready yet and suggest that we develop a detailed 6-month development plan for her where she can get exposure to and training in the needed leadership skills. 
-If she still wants to take on a leadership role after these six months, and has demonstrated growth, I will be happy to give her my full support and be her referral. 
-Getting Lone to stay in my team for a few more months would also buy me time to get the rest of the team more familiar with the core process.  
+I call for an emergency meeting with the two members of my team and let them know about Vivian's request. I tell them that I will get in touch with our internal stakeholders immediately and prepare them for the upcoming delay of our deliverables.
 
 # Variables
  - strategic: -1
@@ -45,8 +41,7 @@ Getting Lone to stay in my team for a few more months would also buy me time to 
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-Great decision. It's always good to be curious about your employees' development goals, and offer constructive and sincere feedback along the way. One possible challenge is that by committing to developing Lone's leadership skills over the next six months you might reduce your team's productivity, as Lone will not be fully focused on her core tasks. 
-By developing her leadership skills you will have to spend additional resources. This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
+It's great that you're so quick to initiate the shift. However, you should also think about ways to engage your team members in this transition. For example, you could seek clarification on the urgency of the new project from Vivian so you are better able to explain to your team members why the shift is so important. This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
 
 # Outcome
@@ -56,7 +51,7 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 
 
 # Choice
-Lone is a valuable team member and I would hate to see her leave. I sit down with her and ask her in more detail about her motivation to pursue a leadership role. Perhaps there are opportunities for her to stay in my team and take on more informal leadership responsibilities that we haven’t explored yet.
+ I tell Vivian that I would like to make the shift in priorities, but that I have some clarifying questions about the need to make the shift now. Perhaps there are important facts about the new project that I've missed, or perhaps Vivian doesn't fully understand the urgency of my team's current project. Once I understand why the shift is so important I'll be in a better position to motivate my team members to make it happen.
 
 # Variables
  - strategic: +0
@@ -65,11 +60,27 @@ Lone is a valuable team member and I would hate to see her leave. I sit down wit
  - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
 
 # Feedback
-It's good that you are curious about Lone's development goals and invite her to think about solutions within your team. This could be the best course of action, but you should be prepared that Lone may still want to leave your team. 
-In that case, think about ways to offer her sincere and constructive feedback and consider how to minimise the impact of her departure on your team's productivity and critical processes. 
-This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
+Great choice. When confusion arises it's important to seek clarification and speak your mind. By firstly telling Vivian that you're keen to make the shift, and then stating that you need more clarification, you make it clear that you are supportive of her decision. This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
 
 # Outcome
 
 You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
+
+# Choice
+I call for an emergency meeting with the two members of my team. I tell them about the shift in priorities and explain that their time is more valuable to the new project. I ask them how they want to communicate the delay of our current deliverables to our stakeholders, and ask them to help me come up with a plan for the shift.
+
+# Variables
+ - strategic: +0
+ - accountability: +0
+ - ambiguity: -4
+ - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+
+# Feedback
+Good choice. Sometimes we have to come to terms with decisions that we don't necessarily agree with. Engaging your team members in the preparation of the shift is likely to empower them in a situation where they may easily feel out of control. You could consider seeking further clarification on the urgency of the new project from Vivian so you better can explain why the shift is so urgent. This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
+
+
+# Outcome
+
+You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
+
