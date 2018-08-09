@@ -5,9 +5,9 @@
  - Review Feedback: true
 
 # Variables
- - strategic: 100
- - accountability: 100
- - ambiguity: 100
+ - yourself-new: 100
+ - bringoutthebest-new: 100
+ - rolemodel-new: 100
  - total: 100
 
 # Exports
