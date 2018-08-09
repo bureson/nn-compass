@@ -11,13 +11,13 @@
  - total: 100
 
 # Exports
- - strategic: true
- - accountability: true
- - ambiguity: true
+ - yourself-new: true
+ - bringoutthebest-new: true
+ - rolemodel-new: true
 
 # Visible
 - total: true
-- strategic: true
-- accountability: true
-- ambiguity: true
+- yourself-new: true
+- bringoutthebest-new: true
+- rolemodel-new: true
 
