@@ -16,10 +16,10 @@ What do you do?
 I understand that my Danish team members are not comfortable speaking English all the time. Therefore, I tell my team that going forward everyone will only have to communicate in English during team meetings, in shared emails and conversations that Olga participates in. When Olga is not involved, they are free to communicate in the language they prefer.
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 
@@ -27,24 +27,24 @@ It's good that you're mindful of your Danish team members' emotions. However, it
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
 I worry that forcing my Danish team members to speak English will have a negative infuence on the team spirit and make them participate less in shared discussions. Instead, I try to set a good example myself by always speaking English, but I allow my Danish team members to decide for themselves which language they communicate in. Over time I am sure they will all feel more comfortable speaking to each other in English.
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 It's a good reflection that it might have a negative infuence on the team if you force them to speak English. However, if you let your team choose themselves what language they speak, you are not addressing the root cause of the problem. In this scenario, your Danish team members will likely continue to speak Danish and Olga will feel increasingly left out. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -52,10 +52,10 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 The only way to include Olga in the team is to make all team members speak English, although my Danish team members might not be happy with this decision in the short term. If I make English optional or dependent on Olga's presence, my Danish team members are likely to avoid Olga altogether. I contact HR to get support in making this happen in the best way possible. I am convinced that this is in the long term interest of my team's wellbeing. 
 
 # Variables
- - strategic: +0
- - accountability: +0
- - ambiguity: -4
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: +0
+ - bringoutthebest-new: +0
+ - rolemodel-new: -4
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually benefit the whole team, including Olga, who is an important member of your team. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.

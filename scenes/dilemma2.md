@@ -16,10 +16,10 @@ How do you respond?
 I thank Hanne for bringing up the situation. I explain that I had made the decision quickly because I thought it was an insignificant change. I apologise that she felt left out of the process and ask her what we can do in the future to avoid these situations.
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 
@@ -29,24 +29,24 @@ This is a dilemma of balancing your own authenticity as a manager with your team
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
 I share with Hanne that we might have different working style preferences when it comes to being involved and engaging others in decisions about work processes. I ask Hanne what it means to her to be involved in a decision, and invite her to reflect on how we might avoid a similar situation in the future, while balancing both our working style preferences. 
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -54,10 +54,10 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 After listening to Hanne, I acknowledge that it must have been a frustrating experience. However, I also explain that I don't always involve everyone in a decision unless it's important as it can impact efficiency and execution in the team. I tell Hanne that I need her to trust my ability to make these decisions, and I encourage her to bring up issues like these earlier so we can clear out any confusion sooner rather than later.
 
 # Variables
- - strategic: +0
- - accountability: +0
- - ambiguity: -4
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: +0
+ - bringoutthebest-new: +0
+ - rolemodel-new: -4
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
  Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 

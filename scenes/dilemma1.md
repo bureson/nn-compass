@@ -18,10 +18,10 @@ How do you respond?
  I don’t think Lone would thrive in a leadership role, but I acknowledge that this is something she wants to do. So I accept to be her referral. I also tell her that I need her to work with me and the team over the next three months to ensure that her knowledge about the core process is transferred to the team. 
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 It's great that you're being supportive of Lone's growth within Novo Nordisk, while also keeping the business' goals in mind. 
@@ -30,7 +30,7 @@ This is a dilemma of balancing how you develop your team members, provide sincer
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -39,10 +39,10 @@ If she still wants to take on a leadership role after these six months, and has 
 Getting Lone to stay in my team for a few more months would also buy me time to get the rest of the team more familiar with the core process.  
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 Great decision. It's always good to be curious about your employees' development goals, and offer constructive and sincere feedback along the way. One possible challenge is that by committing to developing Lone's leadership skills over the next six months you might reduce your team's productivity, as Lone will not be fully focused on her core tasks. 
@@ -51,7 +51,7 @@ By developing her leadership skills you will have to spend additional resources.
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -59,10 +59,10 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 Lone is a valuable team member and I would hate to see her leave. I sit down with her and ask her in more detail about her motivation to pursue a leadership role. Perhaps there are opportunities for her to stay in my team and take on more informal leadership responsibilities that we haven’t explored yet.
 
 # Variables
- - strategic: +0
- - accountability: +0
- - ambiguity: -4
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: +0
+ - bringoutthebest-new: +0
+ - rolemodel-new: -4
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 It's good that you are curious about Lone's development goals and invite her to think about solutions within your team. This could be the best course of action, but you should be prepared that Lone may still want to leave your team. 

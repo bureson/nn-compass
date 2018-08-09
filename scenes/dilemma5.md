@@ -14,10 +14,10 @@ How do address your employees' complaints?
 I'm surprised to hear about the complaint. However, I also know that my own positive experience with him from the past could impact my judgment of him. I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore whether there could be some underlying reasons why my team members would complain about his performance. 
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 
@@ -25,24 +25,24 @@ It's great that you're keeping an open mind here. You're absolutely right to con
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
 I need to get a better understanding of Daniel's overall performance. I plan to talk to Daniel, as well as a few stakeholders outside of my team who have worked with him to get their view on his skills. Once I have covered multiple views on his performance I will bettter understand if he is performing poorly. In that case, I will let him know the areas where I expect to see an improvement in his performance moving forward.
 
 # Variables
- - strategic: -1
- - accountability: -1
- - ambiguity: +2
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: -1
+ - bringoutthebest-new: -1
+ - rolemodel-new: +2
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 It's good that you're considering Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on strategic) 
+You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -50,10 +50,10 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 Even if Daniel is performing poorly we're all responsible for giving him timely and sincere feedback to  point him in the right direction. Based on this, I have a conversation with Daniel to see how things are going and whether he is struggling somewhere. Afterwards, I meet with the team members who complained over Daniel. I use this situation as an opportunity to coach my team members to be more constructive when they identify a problem with their colleagues' performance. Perhaps they could have talked to Daniel before coming to me, or they could have offered suggestions for how to improve Daniel's attention to detail.
 
 # Variables
- - strategic: +0
- - accountability: +0
- - ambiguity: -4
- - total: round(((accountability * ambiguity) / 100) - (100 - strategic))
+ - yourself-new: +0
+ - bringoutthebest-new: +0
+ - rolemodel-new: -4
+ - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
 
 # Feedback
 This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
