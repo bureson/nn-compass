@@ -17,7 +17,7 @@ I thank Lisa for making this suggestion and for taking the initiative to improve
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+ 
 
 # Feedback
 
@@ -35,7 +35,7 @@ I thank Lisa for the suggestion and initiative. I tell her that it's important t
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's great that you want to explore the issue of low-quality A3s in more detail yourself. However, to further develop Lisa you might want to consider ways to engage her in the entire process, e.g. by involving her more in your own diagnosis of the problem. This is a dilemma of developing team members and solving problems systematically and to root cause.
@@ -53,7 +53,7 @@ I thank Lisa for the suggestion. However, I tell her that I'm not entirely sure 
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 Good choice. You are right to suggest a systematic problem solving before committing to a particular solution, and it's great that you're inviting Lisa to be a part of this. As an AM, it's important to be able to coach and delegate work to your employees. This is a dilemma of developing team members and solving problems systematically and to root cause.
@@ -71,7 +71,7 @@ I thank Lisa for raising this issue but tell her that I'm concerned about narrow
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 Your focus on developing your team's capabilities in the long term is great. However, you should consider doing a systematic problem solving before suggesting to do a team-wide re-training. Perhaps the issue of low quality A3s is not due to lack of poor competencies. This is a dilemma of developing team members and solving problems systematically and to root cause.
