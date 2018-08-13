@@ -19,7 +19,7 @@ I understand that my Danish team members are not comfortable speaking English al
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 
@@ -37,7 +37,7 @@ I worry that forcing my Danish team members to speak English will have a negativ
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's a good reflection that it might have a negative infuence on the team if you force them to speak English. However, if you let your team choose themselves what language they speak, you are not addressing the root cause of the problem. In this scenario, your Danish team members will likely continue to speak Danish and Olga will feel increasingly left out. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
@@ -55,7 +55,7 @@ The only way to include Olga in the team is to make all team members speak Engli
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually benefit the whole team, including Olga, who is an important member of your team. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
