@@ -19,7 +19,7 @@ I want to get to know the team even better before I implement any changes to the
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 
@@ -37,7 +37,7 @@ It's time for me to take a more active role in the daily board meetings. Going f
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
  It's very good that you take action and prioritise to lead the performance board meetings. Keep in mind that for a performance board to be truly effective it should be backed up by all team members. By choosing this approach you could risk that you don't have the team's full support to your changes. This is a dilemma of creating collaborative teams, simplifying processes, setting clear goals and using PS Production System to integrate relevant Best Practices in own area.
@@ -56,7 +56,7 @@ I invite the team for a collaborative workshop where we can define new KPIs that
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 Great choice. You choose to do something about the issue of low value from the performance board meetings as well as the red KPI's. A workshop that ensures buy-in from team members could be a good starting point. Remember that you are responsible for ensuring that the outcome is in line with the overall organisational priorities. This is a dilemma of creating collaborative teams, simplifying processes, setting clear goals and using PS Production System to integrate relevant Best Practices in own area.
