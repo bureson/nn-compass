@@ -19,7 +19,7 @@ I thank Hanne for bringing up the situation. I explain that I had made the decis
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+ 
 
 # Feedback
 
@@ -39,7 +39,7 @@ I share with Hanne that we might have different working style preferences when i
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
@@ -57,7 +57,7 @@ After listening to Hanne, I acknowledge that it must have been a frustrating exp
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
  Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
