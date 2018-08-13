@@ -21,7 +21,7 @@ How do you respond?
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+ 
 
 # Feedback
 It's great that you're being supportive of Lone's growth within Novo Nordisk, while also keeping the business' goals in mind. 
@@ -42,7 +42,7 @@ Getting Lone to stay in my team for a few more months would also buy me time to 
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 Great decision. It's always good to be curious about your employees' development goals, and offer constructive and sincere feedback along the way. One possible challenge is that by committing to developing Lone's leadership skills over the next six months you might reduce your team's productivity, as Lone will not be fully focused on her core tasks. 
@@ -62,7 +62,7 @@ Lone is a valuable team member and I would hate to see her leave. I sit down wit
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's good that you are curious about Lone's development goals and invite her to think about solutions within your team. This could be the best course of action, but you should be prepared that Lone may still want to leave your team. 
