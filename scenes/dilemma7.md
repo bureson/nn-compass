@@ -19,7 +19,7 @@ I thank Jens for his suggestion and initiative to reduce system breakdowns. I as
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+ 
 
 # Feedback
 
@@ -37,7 +37,7 @@ I thank Jens for this suggestion. However, I but tell him that he has too long b
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 Being able to identify and implement process improvements is core to the Novo Nordisk Way. Therefore it's great you might consider delegation as a er ways to make Jens' suggestion work. It may take more time and planning, but if it could lead to a more stable production where Jens is not a bottleneck and fewer breakdowns in the long run it's always worth looking into. This is a dilemma between managing cost, quality and delivery. 
@@ -55,7 +55,7 @@ I thank Jens for his suggestion and encourage him to implement the idea. However
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
  This is a great response. Being able to identify and implement process improvements is core to the Novo Nordisk Way. With this choice, you are delaying the new process improvement. However, your focus on planning also ensures that the new process is properly integrated into Jens' current maintenance schedule. This, in turn, will reduce unnecessary disruptions to his regular maintenance work. This is a dilemma between managing cost, quality and delivery. overvej delegation lige om lidt står deu i smame situation igen legation
