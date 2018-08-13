@@ -17,7 +17,7 @@ What do you do?
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 
@@ -35,7 +35,7 @@ I send an email to my team to inform them that I will Process Confirm the gownin
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's great that you're responding so quickly to the news of possible non-compliance with standards in your team. Letting your team know that you will be observing them in advance is the right thing to do. When you observe non-compliant behaviour it's important you deside on more sustainable actions than just addressing the individual employee - maybe the SOP needs to be updated or the employees need to be retrained. This is a dilemma between making decisions, process confirming and eliminating root causes.
@@ -53,7 +53,7 @@ I schedule a meeting with Louise, a trusted employee, to find out if there are a
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's a good idea to explore the issue in more detail before you assume that there is a problem with the gowning standard. However, it's best to engage your full team in an open-ended discussion where you ask for everyone's input on how to improve the gowning standard as opposed to only talking to one team member. This is a dilemma between making decisions, process confirming and solving problems to root cause.
