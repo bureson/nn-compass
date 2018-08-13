@@ -17,7 +17,7 @@ I'm surprised to hear about the complaint. However, I also know that my own posi
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 
@@ -35,7 +35,7 @@ I need to get a better understanding of Daniel's overall performance. I plan to 
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 It's good that you're considering Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
@@ -53,7 +53,7 @@ Even if Daniel is performing poorly we're all responsible for giving him timely 
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
