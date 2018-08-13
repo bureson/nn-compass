@@ -20,7 +20,7 @@ I tell them that we have to sort this out later today, since I have a meeting wa
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+ 
 
 # Feedback
 
@@ -38,7 +38,7 @@ Lilli is right in this situation, so I - on the spot - update John on the agreem
  - yourself-new: -1
  - bringoutthebest-new: -1
  - rolemodel-new: +2
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+
 
 # Feedback
 This choice reflects that you are making effective decisions. Yes, Lilli is right, but John wasn't informed. It might be a good idea to investigate why John and Lilli's discussion ended in such a heated manner - not just with Lilli. This is a dilemma of creating collaborative teams, giving timely feedback, promoting a healthy and engaging work environment and simplifying processes to maximise efficiency and effectiveness. 
@@ -56,7 +56,7 @@ I suggest to John that we have a 1:1 talk right away, even though I'll be late f
  - yourself-new: +0
  - bringoutthebest-new: +0
  - rolemodel-new: -4
- - total: round(((bringoutthebest-new * rolemodel-new) / 100) - (100 - yourself-new))
+ 
 
 # Feedback
  It's good to sit down with John to update him and also doing it right away. His behaviour is based on lack of information, so remember this when you sit down with him. Asking him to proactively follow up on team meetings and hand over tasks are good decisions and ensure timely procedures. This is a dilemma of creating collaborative teams, giving timely feedback, promoting a healthy and engaging work environment and simplifying processes to maximise efficiency and effectiveness. 
