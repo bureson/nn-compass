@@ -8,7 +8,7 @@
  - yourself-new: 100
  - bringoutthebest-new: 100
  - rolemodel-new: 100
- - total: 100
+
 
 # Exports
  - yourself-new: true
