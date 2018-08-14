@@ -3,6 +3,7 @@
  - Image: https://flemmingfog.github.io/spike/woman.jpg
  - Next: dilemma2
 
+
 # Description
 Lone has been working in your team for the past two years. She's highly skilled and the only one who knows how to manage a core process in your team. 
 
