@@ -1,4 +1,4 @@
-# config
+# Config
 
 - Next: dilemma1Feedback
 
