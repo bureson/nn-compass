@@ -16,8 +16,8 @@
  - rolemodel-new: true
 
 # Visible
-- total: true
-- yourself-new: true
-- bringoutthebest-new: true
-- rolemodel-new: true
+- total: false
+- yourself-new: false
+- bringoutthebest-new: false
+- rolemodel-new: false
 
