@@ -27,9 +27,7 @@ This is a very emphathetic response towards Hanne. However, by not addressing yo
 Consider talking more openly to Hanne about your different preferences and discuss ways to work together around these. 
 This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -44,9 +42,6 @@ I share with Hanne that we might have different working style preferences when i
 # Feedback
 It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
 
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -62,11 +57,6 @@ After listening to Hanne, I acknowledge that it must have been a frustrating exp
 # Feedback
  Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. This is a dilemma of balancing your own authenticity as a manager with your team members' needs, awareness of own and others' emotions, and providing sincere feedback. 
 
-
-
-# Outcome
-
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
 
