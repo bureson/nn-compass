@@ -23,9 +23,7 @@ I thank Lisa for making this suggestion and for taking the initiative to improve
 
 Great choice.Your support of Lisa's initiative is very empowering and it's great that you encourage her to solve the problem to root cause in a systematic way. You might also consider coaching her through the problem solving. This is a dilemma of developing team members and solving problems systematically to root cause.
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -40,9 +38,7 @@ I thank Lisa for the suggestion and initiative. I tell her that it's important t
 # Feedback
 It's great that you want to explore the issue of low-quality A3s in more detail yourself. However, to further develop Lisa you might want to consider ways to engage her in the entire process, e.g. by involving her more in your own diagnosis of the problem. This is a dilemma of developing team members and solving problems systematically and to root cause.
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -60,9 +56,7 @@ Good choice. You are right to suggest a systematic problem solving before commit
 
 
 
-# Outcome
 
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 # Choice
 I thank Lisa for raising this issue but tell her that I'm concerned about narrowing down A3 competencies to only two employees as this could limit the rest of the team's development. Instead, I let her know that I'll take an action sticker to the AM performance board with a suggestion of a team-wide A3 re-training. 
@@ -78,8 +72,5 @@ Your focus on developing your team's capabilities in the long term is great. How
 
 
 
-# Outcome
-
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
