@@ -26,9 +26,7 @@ Pushing back on your direct manager's decision can be healthy. However, in this 
 Consider asking Vivian for further clarification on the urgency of the new project as you might delay critical work processes that are of higher priority to the business. 
 This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -44,9 +42,7 @@ I call for an emergency meeting with the two members of my team and let them kno
 It's great that you're so quick to initiate the shift. However, you should also think about ways to engage your team members in this transition. For example, you could seek clarification on the urgency of the new project from Vivian so you are better able to explain to your team members why the shift is so important. This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -63,9 +59,6 @@ You experienced a positive effect in output (+2) but it costed some in Jonas's e
 Great choice. When confusion arises it's important to seek clarification and speak your mind. By firstly telling Vivian that you're keen to make the shift, and then stating that you need more clarification, you make it clear that you are supportive of her decision. This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
 
-# Outcome
-
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 # Choice
 I call for an emergency meeting with the two members of my team. I tell them about the shift in priorities and explain that their time is more valuable to the new project. I ask them how they want to communicate the delay of our current deliverables to our stakeholders, and ask them to help me come up with a plan for the shift.
@@ -79,8 +72,4 @@ I call for an emergency meeting with the two members of my team. I tell them abo
 # Feedback
 Good choice. Sometimes we have to come to terms with decisions that we don't necessarily agree with. Engaging your team members in the preparation of the shift is likely to empower them in a situation where they may easily feel out of control. You could consider seeking further clarification on the urgency of the new project from Vivian so you better can explain why the shift is so urgent. This is a dilemma between prioritising time and resources, creating collaborative teams and demonstrating a thorough understanding of Novo Nordisk's processes and how they affect our value chain. 
 
-
-# Outcome
-
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
