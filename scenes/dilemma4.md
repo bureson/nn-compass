@@ -25,9 +25,7 @@ I understand that my Danish team members are not comfortable speaking English al
 
 It's good that you're mindful of your Danish team members' emotions. However, it might be at the expense of Olga's wellbeing. If you tell your team that they can speak Danish when Olga is not around, there is a risk that they will try to avoid her more.  This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -42,9 +40,7 @@ I worry that forcing my Danish team members to speak English will have a negativ
 # Feedback
 It's a good reflection that it might have a negative infuence on the team if you force them to speak English. However, if you let your team choose themselves what language they speak, you are not addressing the root cause of the problem. In this scenario, your Danish team members will likely continue to speak Danish and Olga will feel increasingly left out. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -62,6 +58,4 @@ This is a great choice which signals that you are committed to creating a truly 
 
 
 
-# Outcome
 
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
