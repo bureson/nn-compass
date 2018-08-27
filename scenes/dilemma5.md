@@ -23,9 +23,6 @@ I'm surprised to hear about the complaint. However, I also know that my own posi
 
 It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
 
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -40,9 +37,6 @@ I need to get a better understanding of Daniel's overall performance. I plan to 
 # Feedback
 It's good that you're considering Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
 
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -60,9 +54,7 @@ This is an interesting choice which demonstrates a strong commitment to supporti
 
 
 
-# Outcome
 
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
 
