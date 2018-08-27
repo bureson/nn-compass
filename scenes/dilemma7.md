@@ -25,9 +25,7 @@ I thank Jens for his suggestion and initiative to reduce system breakdowns. I as
 
 It's great that you're supportive of Jens' suggestion. Being able to identify and implement process improvements is core to the Novo Nordisk Way. However, you should make sure that the implementation of the new maintenance schedule is planned in a way that doesn't interfere with the current schedule. By giving Jens more work, there is a risk that some of his other maintenance tasks get delayed, which also could lead to expensive downtime. This is a dilemma between managing cost, quality and delivery.
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -42,9 +40,7 @@ I thank Jens for this suggestion. However, I but tell him that he has too long b
 # Feedback
 Being able to identify and implement process improvements is core to the Novo Nordisk Way. Therefore it's great you might consider delegation as a er ways to make Jens' suggestion work. It may take more time and planning, but if it could lead to a more stable production where Jens is not a bottleneck and fewer breakdowns in the long run it's always worth looking into. This is a dilemma between managing cost, quality and delivery. 
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -58,12 +54,9 @@ I thank Jens for his suggestion and encourage him to implement the idea. However
 
 
 # Feedback
- This is a great response. Being able to identify and implement process improvements is core to the Novo Nordisk Way. With this choice, you are delaying the new process improvement. However, your focus on planning also ensures that the new process is properly integrated into Jens' current maintenance schedule. This, in turn, will reduce unnecessary disruptions to his regular maintenance work. This is a dilemma between managing cost, quality and delivery. overvej delegation lige om lidt står deu i smame situation igen legation
+ This is a great response. Being able to identify and implement process improvements is core to the Novo Nordisk Way. With this choice, you are delaying the new process improvement. However, your focus on planning also ensures that the new process is properly integrated into Jens' current maintenance schedule. This, in turn, will reduce unnecessary disruptions to his regular maintenance work. This is a dilemma between managing cost, quality and delivery. overvej delegation lige om lidt står du i samme situation igen
 
 
-# Outcome
-
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
 
