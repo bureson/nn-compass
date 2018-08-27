@@ -29,9 +29,6 @@ It's great that you're being supportive of Lone's growth within Novo Nordisk, wh
 However, if you think that Lone isn't fit for a leadership role you ought to have a conversation with her about her motivation to transition into leadership and be more frank about how you see her potential to become a leader. 
 This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
 
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -50,9 +47,7 @@ Great decision. It's always good to be curious about your employees' development
 By developing her leadership skills you will have to spend additional resources. This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
 
 
-# Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -71,9 +66,6 @@ In that case, think about ways to offer her sincere and constructive feedback an
 This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
 
 
-# Outcome
-
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
 
