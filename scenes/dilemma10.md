@@ -26,9 +26,6 @@ I tell them that we have to sort this out later today, since I have a meeting wa
 
  It's great that you take time to sit down and mediate the conflict. This gives you the possibility to give timely feedback and sort out what is really at stake here. However, this conflict might be a matter that you should handle right away, since the conflict could evolve from morning to afternoon and make it even harder to resolve. This is a dilemma of creating collaborative teams, giving timely feedback, promoting a healthy and engaging work environment and simplifying processes to maximise efficiency and effectiveness.  
 
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on yourself-new) 
 
 
 # Choice
@@ -43,9 +40,6 @@ Lilli is right in this situation, so I - on the spot - update John on the agreem
 # Feedback
 This choice reflects that you are making effective decisions. Yes, Lilli is right, but John wasn't informed. It might be a good idea to investigate why John and Lilli's discussion ended in such a heated manner - not just with Lilli. This is a dilemma of creating collaborative teams, giving timely feedback, promoting a healthy and engaging work environment and simplifying processes to maximise efficiency and effectiveness. 
 
-# Outcome
-
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on yourself-new) 
 
 
 
@@ -63,9 +57,7 @@ I suggest to John that we have a 1:1 talk right away, even though I'll be late f
 
 
 
-# Outcome
 
-You experienced a negative effect in output (-4). No effect on neither engagement nor resource spend. 
 
 
 
