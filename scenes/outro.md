@@ -3,4 +3,4 @@
  
 
 # Description
-Thanks for completing the dilemmas! Click complete to see feedback.
+Thank you for going through dilemmas and feedback!
