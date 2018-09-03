@@ -1,15 +1,17 @@
 # Config
- - Title: Introduction to Competency Compass Dilemmas
+ - Title: Welcome to Competency Compass part I: Leadership Dilemmas
  - Next: dilemma1
  - Image: https://flemmingfog.github.io/spike/donut.jpg
 
 # Description
-In the following you will face a series of difficult situations. For each situation you must decide what to do based on a list of 3-4 different options. 
+In the following you will meet a series of leadership dilemmas. For each dilemma you must choose between 3-4 options. 
 
-And your choices have consequences: As in real life, your task is to maximixe *Engagement* and *Output* in your team, whilst not overspending on *Resources*. You will get instant feedback on every choice. 
+In case a dilemma is not directly referable to your team or department, we encourage you to compare it to a similar situation and base the answer on your reflections.
 
-DAILY DILEMMAS is a collection of realistic dilemmas, created by Associate Managers in Novo Nordisk. Both the dilemmas as well as the evaluation of the different responses represents the best advice possible, based on Novo Nordisk values and behavioural guidelines. 
+You will get feedback on your choices when you have completed all dilemmas.
 
-But: As every situation and every person is different the recommandations are not as simple as they seem. You will alsways nede to engage a good bit of common sence when you make the real everyday choices. 
+Note that your results will be saved if you are not able to complete the dilemmas in one session.
 
-Enjoy. 
+
+Click ‘Next’ to proceed.
+
