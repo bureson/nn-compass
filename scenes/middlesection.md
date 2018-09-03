@@ -1,6 +1,7 @@
 # Config
-- Title: Thanks! Now for the feedback...
+- Title: Well done!
 - Next: dilemma1Feedback
 
 # Description
-Lorem ipsum
+Click ‘Next’ to get feedback on the choices you made in each dilemma. 
+
