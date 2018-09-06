@@ -17,9 +17,7 @@ What do you do?
 I tell them that we have to sort this out later today, since I have a meeting waiting. In the afternoon, John, Lilli and I sit down together so we can talk this conflict through. I start by updating John on our agreement from the team meeting. Then I ask John to explain his version first, before asking Lilli to explain from her point of view. After hearing both sides, I ask John to make sure that his recurring tasks are handed over. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+ 
  
 
 # Feedback
@@ -32,9 +30,7 @@ I tell them that we have to sort this out later today, since I have a meeting wa
 Lilli is right in this situation, so I - on the spot - update John on the agreement we made at the team meeting, where he wasn't present. I then ask him to hand over his recurring tasks before he leaves for vacation. Later I will follow up 1:1 with Lilli to investigate why the discussion ended in such a heated manner.
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -47,9 +43,7 @@ This choice reflects that you are making effective decisions. Yes, Lilli is righ
 I suggest to John that we have a 1:1 talk right away, even though I'll be late for my meeting. I update John on the decision made at the team meeting. I ask him to proactively follow up on any team meetings that he is absent from. If everybody followed procedures, then this conflict wouldn't have happened. 
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
  
 
 # Feedback
