@@ -36,34 +36,34 @@
 
 
 # Exports
- - yourself-new: true
- - yourself-seekunderstanding-new: true
- - yourself-seekunderstanding-new-1: true
- - yourself-seekunderstanding-new-2: true
- - yourself-seekunderstanding-new-3: true
- - yourself-seekunderstanding-new-4: true
- - bringoutthebest-new: true
- - bringoutthebest-buildteams-new: true
- - bringoutthebest-buildteams-new-1: true
- - bringoutthebest-buildteams-new-2: true
- - bringoutthebest-buildteams-new-3: true
- - bringoutthebest-buildteams-new-4: true
- - bringoutthebest-accelerate-new: true
- - bringoutthebest-accelerate-new-1: true
- - bringoutthebest-accelerate-new-2: true
- - bringoutthebest-accelerate-new-3: true
- - bringoutthebest-accelerate-new-4: true
- - rolemodel-new: true
- - rolemodel-setdirection-new: true
- - rolemodel-setdirection-new-1: true
- - rolemodel-setdirection-new-2: true
- - rolemodel-setdirection-new-3: true
- - rolemodel-setdirection-new-4: true
- - rolemodel-driveoutcome-new: true
- - rolemodel-driveoutcome-new-1: true
- - rolemodel-driveoutcome-new-2: true
- - rolemodel-driveoutcome-new-3: true
- - rolemodel-driveoutcome-new-4: true
+ - yourself-new: false
+ - yourself-seekunderstanding-new: false
+ - yourself-seekunderstanding-new-1: false
+ - yourself-seekunderstanding-new-2: false
+ - yourself-seekunderstanding-new-3: false
+ - yourself-seekunderstanding-new-4: false
+ - bringoutthebest-new: false
+ - bringoutthebest-buildteams-new: false
+ - bringoutthebest-buildteams-new-1: false
+ - bringoutthebest-buildteams-new-2: false
+ - bringoutthebest-buildteams-new-3: false
+ - bringoutthebest-buildteams-new-4: false
+ - bringoutthebest-accelerate-new: false
+ - bringoutthebest-accelerate-new-1: false
+ - bringoutthebest-accelerate-new-2: false
+ - bringoutthebest-accelerate-new-3: false
+ - bringoutthebest-accelerate-new-4: false
+ - rolemodel-new: false
+ - rolemodel-setdirection-new: false
+ - rolemodel-setdirection-new-1: false
+ - rolemodel-setdirection-new-2: false
+ - rolemodel-setdirection-new-3: false
+ - rolemodel-setdirection-new-4: false
+ - rolemodel-driveoutcome-new: false
+ - rolemodel-driveoutcome-new-1: false
+ - rolemodel-driveoutcome-new-2: false
+ - rolemodel-driveoutcome-new-3: false
+ - rolemodel-driveoutcome-new-4: false
 
 # Visible
  - total: false
