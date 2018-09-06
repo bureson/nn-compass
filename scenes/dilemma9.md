@@ -16,9 +16,7 @@ How do you do this?
 I want to get to know the team even better before I implement any changes to the team's processes. I decide to spend  more time my first month getting to know the team and its processes better, and if the problem persists I'll come up with an improvement plan later.
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -32,9 +30,7 @@ I want to get to know the team even better before I implement any changes to the
 It's time for me to take a more active role in the daily board meetings. Going forward, I will lead the meetings and set a more clear direction for the team by demonstrating how KPI's and action items can be reached more effectively. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -49,9 +45,7 @@ I invite the team for a collaborative workshop where we can define new KPIs that
 
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
 
 
 # Feedback
