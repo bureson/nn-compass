@@ -16,9 +16,7 @@ What do you do?
 After talking to her, I send her a follow-up e-mail which outlines the exact consequences of her request, as I see it. I ask her to reconsider the decision, or at least postpone it by another two weeks until we are done with the current project. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
  
 
 # Feedback
@@ -33,9 +31,7 @@ This is a dilemma between prioritising time and resources, creating collaborativ
 I call for an emergency meeting with the two members of my team and let them know about Vivian's request. I tell them that I will get in touch with our internal stakeholders immediately and prepare them for the upcoming delay of our deliverables.
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -50,9 +46,7 @@ It's great that you're so quick to initiate the shift. However, you should also 
  I tell Vivian that I would like to make the shift in priorities, but that I have some clarifying questions about the need to make the shift now. Perhaps there are important facts about the new project that I've missed, or perhaps Vivian doesn't fully understand the urgency of my team's current project. Once I understand why the shift is so important I'll be in a better position to motivate my team members to make it happen.
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
 
 
 # Feedback
@@ -64,9 +58,6 @@ Great choice. When confusion arises it's important to seek clarification and spe
 I call for an emergency meeting with the two members of my team. I tell them about the shift in priorities and explain that their time is more valuable to the new project. I ask them how they want to communicate the delay of our current deliverables to our stakeholders, and ask them to help me come up with a plan for the shift.
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
 
 
 # Feedback
