@@ -11,7 +11,7 @@ You used to work with Daniel in a different team years ago, and you have a great
 How do address your employees' complaints?
 
 # Choice
-I'm surprised to hear about the complaint. However, I also know that my own positive experience with him from the past could impact my judgment of him. I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore whether there could be some underlying reasons why my team members would complain about his performance. 
+I know that my own positive experience with Daniel from the past could impact my judgment of him., so I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore if there could be some underlying reasons why my team members would complain about his performance. 
 
 # Variables
 
@@ -19,31 +19,34 @@ I'm surprised to hear about the complaint. However, I also know that my own posi
 
 # Feedback
 
-It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
+It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. 
 
+This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team .
 
 
 # Choice
-I need to get a better understanding of Daniel's overall performance. I plan to talk to Daniel, as well as a few stakeholders outside of my team who have worked with him to get their view on his skills. Once I have covered multiple views on his performance I will bettter understand if he is performing poorly. In that case, I will let him know the areas where I expect to see an improvement in his performance moving forward.
+I need to get a better understanding of Daniel's overall performance and how Daniel interacts with the team. I plan to talk to Daniel, as well as a few stakeholders outside of my team who have worked with him to get their view on his skills. Once I have covered multiple views on his performance I will better understand if he is performing poorly. If that is the case, I will let him know the areas where I expect to see an improvement moving forward.
 
 # Variables
  
 
 # Feedback
-It's good that you're considering Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
+It's good that you're keeping an open mind instead of jumping to conclusions and want to consider Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. Getting input from other stakeholders is a good way to challenge you own biases as your own positive experience with Daniel from the past may impact your judgment of him and the entire situation
+This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team.
 
 
 
 
 # Choice
-Even if Daniel is performing poorly we're all responsible for giving him timely and sincere feedback to  point him in the right direction. Based on this, I have a conversation with Daniel to see how things are going and whether he is struggling somewhere. Afterwards, I meet with the team members who complained over Daniel. I use this situation as an opportunity to coach my team members to be more constructive when they identify a problem with their colleagues' performance. Perhaps they could have talked to Daniel before coming to me, or they could have offered suggestions for how to improve Daniel's attention to detail.
+Even if Daniel is performing poorly we're all responsible for giving him timely and sincere feedback to point him in the right direction. I therefore have a conversation with Daniel to see how things are going and if he is struggling somewhere. I also meet with the team members who complained about Daniel to start a dialogue about their own behaviour. I use this situation as an opportunity to coach these team members on how to act more constructively should they experience problems with a colleagues' performance another time. They could have offered feedback directly to Daniel themselves before coming to me, and offered their help directly to Daniel on how he could improve his attention to detail.
 
 # Variables
 
 
 
 # Feedback
-This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance. This is a dilemma of being aware of others' emotions and acting appropriately, developing your team members and setting direction for your team.
+This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance. 
+This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team.
 
 
 
