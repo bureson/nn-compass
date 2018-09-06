@@ -14,9 +14,7 @@ What do you do?
  I revisit the gowning standard (SOP) to make sure I understand the procedure myself. Afterwards I take time to observe the gowning behaviours of my employees before I decide what actions to take. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -30,9 +28,7 @@ This is a great choice which underlines your understanding of process confirmati
 I send an email to my team to inform them that I will Process Confirm the gowning SOP. I then go to the changing area on Monday to observe if the standard is being followed or not. When I observe anyone who doesn't follow the standard, I let them know on the spot and tell them what they need to do differently.
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -46,9 +42,7 @@ It's great that you're responding so quickly to the news of possible non-complia
 I schedule a meeting with Louise, a trusted employee, to find out if there are any problems with the standard for changing clothes in the team.
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
 
 
 # Feedback
