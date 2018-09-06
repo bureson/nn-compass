@@ -6,7 +6,7 @@
 # Description
 Olga was recruited to your team from Russia three months ago. She has a highly specialised profile that is needed in your team. 
 
-When Olga joined the team, you asked everyone on your team to make English the common language in the team.
+When Olga joined the team, you asked everyone to make English the common language in the team.
 
  However, you're noticing that this doesn't always happen. In fact, everyone besides Olga speaks Danish most of the time, as it turns out they don't feel comfortable expressing themselves in English. Meanwhile, Olga is beginning to come in late to work , skips social gatherings and she doesn't come for coffee breaks with the rest of the team.
 
@@ -21,7 +21,9 @@ I understand that my Danish team members are not comfortable speaking English al
 
 # Feedback
 
-It's good that you're mindful of your Danish team members' emotions. However, it might be at the expense of Olga's wellbeing. If you tell your team that they can speak Danish when Olga is not around, there is a risk that they will try to avoid her more.  This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
+It's good that you're mindful of your Danish team members' emotions. However, it might be at the expense of Olga's wellbeing. If you tell your team that they can speak Danish when Olga is not around, there is a risk that they will try to avoid her more.  
+
+This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and inclusive work environment on the other.
 
 
 
@@ -34,7 +36,9 @@ I worry that forcing my Danish team members to speak English will have a negativ
 
 
 # Feedback
-It's a good reflection that it might have a negative infuence on the team if you force them to speak English. However, if you let your team choose themselves what language they speak, you are not addressing the root cause of the problem. In this scenario, your Danish team members will likely continue to speak Danish and Olga will feel increasingly left out. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
+It's a good reflection that it might have a negative infuence on the team if you force them to speak English. However, if you let your team choose themselves what language they speak, you are not addressing the root cause of the problem. In this scenario, your Danish team members will likely continue to speak Danish and Olga will feel increasingly left out. 
+
+This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and inclusive  (collaborative) work environment on the other.
 
 
 
@@ -48,7 +52,9 @@ The only way to include Olga in the team is to make all team members speak Engli
 
 
 # Feedback
-This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually benefit the whole team, including Olga, who is an important member of your team. This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and collaborative work environment on the other.
+This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually  
+
+This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and inclusive  (collaborative) work environment on the other.
 
 
 
