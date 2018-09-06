@@ -1,7 +1,7 @@
 # Config
  - Title: Dilemma 10: Handling a disagreement between two team members 
  - Image: https://flemmingfog.github.io/spike/woman.jpg
- - Next: middlesection
+ - Next: dilemma11
 
 # Description
 At a recent team meeting, you addressed the handover of recurring tasks in connection to vacation and days off. Up until now you have taken it upon yourself to distribute the tasks, but now you want to delegate this responsibility to your team. At the meeting, the team reached the following agreement: a team member going on vacation, is responsible for handing over his/her recurring tasks to other team members. 
