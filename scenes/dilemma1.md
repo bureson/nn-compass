@@ -19,9 +19,7 @@ How do you respond?
  I don’t think Lone would thrive in a leadership role, but I acknowledge that this is something she wants to do. So I accept to be her referral. I also tell her that I need her to work with me and the team over the next three months to ensure that her knowledge about the core process is transferred to the team. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
  
 
 # Feedback
@@ -34,9 +32,7 @@ This is a dilemma of balancing how you develop your team members, provide sincer
 I sit down with Lone and decide to give her my sincere feedback. I exemplify why I don't think she's ready yet and suggest that we develop a detailed 6-month development plan for her where she can get exposure to and training in the needed leadership skills. If she still wants to take on a leadership role after these six months, and has demonstrated growth, I will be happy to give her my full support and be her referral. Getting Lone to stay in my team for a few more months would also buy me time to get the rest of the team more familiar with the core process.   
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -52,9 +48,7 @@ This is a dilemma of balancing how you develop your team members, provide sincer
 Lone is a valuable team member and I would hate to see her leave. I sit down with her and ask her in more detail about her motivation to pursue a leadership role. Perhaps there are opportunities for her to stay in my team and take on more informal leadership responsibilities that we haven’t explored yet.
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
 
 
 # Feedback
