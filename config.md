@@ -1,38 +1,38 @@
 # Config
  - Title: Daily Dilemmas
  - Initial Scene: intro
- - Max Value: 200
+ - Max Value: 2
  - Review Feedback: true
 
 # Variables
- - yourself-new: 100
- - yourself-seekunderstanding-new: 100
- - yourself-seekunderstanding-new-1: 100
- - yourself-seekunderstanding-new-2: 100
- - yourself-seekunderstanding-new-3: 100
- - yourself-seekunderstanding-new-4: 100
- - bringoutthebest-new: 100
- - bringoutthebest-buildteams-new: 100
- - bringoutthebest-buildteams-new-1: 100
- - bringoutthebest-buildteams-new-2: 100
- - bringoutthebest-buildteams-new-3: 100
- - bringoutthebest-buildteams-new-4: 100
- - bringoutthebest-accelerate-new: 100
- - bringoutthebest-accelerate-new-1: 100
- - bringoutthebest-accelerate-new-2: 100
- - bringoutthebest-accelerate-new-3: 100
- - bringoutthebest-accelerate-new-4: 100
- - rolemodel-new: 100
- - rolemodel-setdirection-new: 100
- - rolemodel-setdirection-new-1: 100
- - rolemodel-setdirection-new-2: 100
- - rolemodel-setdirection-new-3: 100
- - rolemodel-setdirection-new-4: 100
- - rolemodel-driveoutcome-new: 100
- - rolemodel-driveoutcome-new-1: 100
- - rolemodel-driveoutcome-new-2: 100
- - rolemodel-driveoutcome-new-3: 100
- - rolemodel-driveoutcome-new-4: 100
+ - yourself-new: 1
+ - yourself-seekunderstanding-new: 1
+ - yourself-seekunderstanding-new-1: 1
+ - yourself-seekunderstanding-new-2: 1
+ - yourself-seekunderstanding-new-3: 1
+ - yourself-seekunderstanding-new-4: 1
+ - bringoutthebest-new: 1
+ - bringoutthebest-buildteams-new: 1
+ - bringoutthebest-buildteams-new-1: 1
+ - bringoutthebest-buildteams-new-2: 1
+ - bringoutthebest-buildteams-new-3: 1
+ - bringoutthebest-buildteams-new-4: 1
+ - bringoutthebest-accelerate-new: 1
+ - bringoutthebest-accelerate-new-1: 1
+ - bringoutthebest-accelerate-new-2: 1
+ - bringoutthebest-accelerate-new-3: 1
+ - bringoutthebest-accelerate-new-4: 1
+ - rolemodel-new: 1
+ - rolemodel-setdirection-new: 1
+ - rolemodel-setdirection-new-1: 1
+ - rolemodel-setdirection-new-2: 1
+ - rolemodel-setdirection-new-3: 1
+ - rolemodel-setdirection-new-4: 1
+ - rolemodel-driveoutcome-new: 1
+ - rolemodel-driveoutcome-new-1: 1
+ - rolemodel-driveoutcome-new-2: 1
+ - rolemodel-driveoutcome-new-3: 1
+ - rolemodel-driveoutcome-new-4: 1
 
 
 # Exports
