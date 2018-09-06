@@ -16,9 +16,7 @@ How do you respond?
 I thank Hanne for bringing up the situation. I explain that I had made the decision quickly because I thought it was an insignificant change. I apologise that she felt left out of the process and ask her what we can do in the future to avoid these situations.
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
  
 
 # Feedback
@@ -34,9 +32,7 @@ This is a dilemma of balancing your own authenticity as a manager with your team
 I share with Hanne that we might have different working style preferences when it comes to being involved and engaging others in decisions about work processes. I ask Hanne what it means to her to be involved in a decision, and invite her to reflect on how we might avoid a similar situation in the future, while balancing both our working style preferences. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
 
 
 # Feedback
@@ -49,9 +45,7 @@ It's great that you address your different working style preferences. Figuring o
 After listening to Hanne, I acknowledge that it must have been a frustrating experience. However, I also explain that I don't always involve everyone in a decision unless it's important as it can impact efficiency and execution in the team. I tell Hanne that I need her to trust my ability to make these decisions, and I encourage her to bring up issues like these earlier so we can clear out any confusion sooner rather than later.
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
 
 
 # Feedback
