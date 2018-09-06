@@ -16,9 +16,7 @@ How do you respond?
 I thank Jens for his suggestion and initiative to reduce system breakdowns. I ask him to update the maintenance plan for the pump and increase the frequency of impeller blade replacements so we can implement his suggestion as fast as possible.  
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
+
  
 
 # Feedback
@@ -32,9 +30,6 @@ It's great that you're supportive of Jens' suggestion. Being able to identify an
 I thank Jens for this suggestion. However, I but tell him that he has too long been too busy finding a sustainable solution that he's currently too busy managing the daily maintenance of the production equipment to also implement the new impeller blade replacement system. First we need to define, which of his tasks that can be delegated to others, and until then his time is better spent managing daily maintenance and then fixing the occasional pump replacements when they do occur. 
 
 # Variables
- - yourself-new: -1
- - bringoutthebest-new: -1
- - rolemodel-new: +2
 
 
 # Feedback
@@ -48,9 +43,7 @@ Being able to identify and implement process improvements is core to the Novo No
 I thank Jens for his suggestion and encourage him to implement the idea. However, before implementing the new maintenance schedule, I ask him to take the needed time to plan the replacements carefully so they don't interefere with his regular maintenance work. Once we have a good plan in place, we can initiate the new schedule.
 
 # Variables
- - yourself-new: +0
- - bringoutthebest-new: +0
- - rolemodel-new: -4
+
 
 
 # Feedback
