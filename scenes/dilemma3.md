@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 3: Disagreeing with a direct manager
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_3.jpg
  - Next: dilemma4
  
 # Description
