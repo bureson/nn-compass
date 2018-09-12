@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 6: Problem solving and addressing low quality A3s
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_6.jpg
  - Next: dilemma7
 
 # Description
