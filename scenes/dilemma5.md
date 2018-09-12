@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 5: Your team is complaining over a colleague
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_5.jpg
  - Next: dilemma6
 
 # Description
