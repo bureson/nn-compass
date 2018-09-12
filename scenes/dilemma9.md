@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 9: Visual Management
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_9.jpg
  - Next: dilemma10
 
 # Description
