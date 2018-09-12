@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 10: Handling a disagreement between two team members 
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_10.jpg
  - Next: dilemma11
 
 # Description
