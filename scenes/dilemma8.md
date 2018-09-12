@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 8: Process Confirmation
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_8.jpg
  - Next: dilemma9
 
 # Description
