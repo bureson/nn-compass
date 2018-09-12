@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 7: Kaizen
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_7.jpg
  - Next: dilemma8
 
 # Description
