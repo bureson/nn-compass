@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 4: Integrating a foreign team member into your team 
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_4.jpg
  - Next: dilemma5
 
 # Description
