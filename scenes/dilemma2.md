@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 2: Dealing with a confrontation
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_2.jpg
  - Next: dilemma3
 
 # Description
