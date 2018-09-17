@@ -17,7 +17,12 @@ How do you respond?
 I thank Jens for his suggestion and initiative to reduce system breakdowns. I ask him to update the maintenance plan for the pump and increase the frequency of impeller blade replacements so we can implement his suggestion as fast as possible.  
 
 # Variables
-
+- bringoutthebest-buildteams-new-1_1: 0.3
+- bringoutthebest-accelerate-new-4_2: 0.1
+- rolemodel-setdirection-new-2_2: 0.3
+- rolemodel-driveoutcome-new-1_1: 1
+- rolemodel-driveoutcome-new-3_3: 0.9
+- rolemodel-driveoutcome-new-4_3: 0.3
  
 
 # Feedback
@@ -32,7 +37,15 @@ This is a dilemma between creating time to eliminate waste and simplify processe
 I thank Jens for this suggestion and initiatie, but tell him that he is too busy managing the daily maintenance to also implement the new impeller blade replacement system. First we need to free up some time by sorting out which of his tasks that can be delegated to others. Until that is in place, it's better that Jens manages the daily maintenance schedule and fixes the occasional pump replacements if it should occur. 
 
 # Variables
-
+- yourself-seekunderstanding-new-3_2: 0.9
+- bringoutthebest-buildteams-new-1_1: 1
+- bringoutthebest-buildteams-new-2_2: 0.9
+- bringoutthebest-accelerate-new-4_2: 0.7
+- rolemodel-setdirection-new-2_2: 0.5
+- rolemodel-driveoutcome-new-1_1: 0.5
+- rolemodel-driveoutcome-new-3_2: 0.7
+- rolemodel-driveoutcome-new-3_3: 0.7
+- rolemodel-driveoutcome-new-4_3: 0.8
 
 # Feedback
 This is a great response. Being able to identify and implement process improvements is core to the Novo Nordisk Way. Therefore it's great  that you consider delegation as a way to make Jens' suggestion work and manage his workload at the same time. With this choice, you are delaying the new process improvement, but in the long run delegating some of Jens' tasks and responsibilities will lead to a more stable production, where Jens is not a bottleneck, fewer breakdowns and faster development of other team members. 
@@ -46,8 +59,12 @@ This is a dilemma about accelerating team members development, empower others to
 I thank Jens for his suggestion and encourage him to implement the idea. However, before implementing the new maintenance schedule, I ask him to take the needed time to plan the replacements carefully so they don't interefere with his regular maintenance work. Once we have a good plan in place, we can initiate the new schedule.
 
 # Variables
-
-
+- bringoutthebest-buildteams-new-1_1: 0.8
+- bringoutthebest-accelerate-new-4_2: 0.1
+- rolemodel-setdirection-new-2_2: 0.8
+- rolemodel-driveoutcome-new-1_1: 0.8
+- rolemodel-driveoutcome-new-3_3: 1
+- rolemodel-driveoutcome-new-4_3: 0.3
 
 # Feedback
 Good choice. Being able to identify and implement process improvements is core to the Novo Nordisk Way. With this choice, you are delaying the new process improvement. However, your focus on planning should ensure that the new process is properly integrated into Jens' current maintenance schedule. This, in turn, will reduce unnecessary disruptions to his regular maintenance work. However, you should also consider delegation of some of Jens' tasks as a solution. Despite good planning, giving Jens more work could make him an even bigger bottlenek and you could soon find yourself in a similar sitiation again. Moreover, the workload may also become too much for Jens to handle in the long run.
