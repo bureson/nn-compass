@@ -17,6 +17,9 @@ I thank Lisa for making this suggestion and for taking the initiative to improve
 - bringoutthebest-accelerate-new-1_4: 0.8
 - bringoutthebest-accelerate-new-3_1: 0.8
 - rolemodel-driveoutcome-new-1_3: 0.1
+- rolemodel-driveoutcome-new-3_3: 1
+- rolemodel-driveoutcome-new-4_1: 1
+- rolemodel-driveoutcome-new-4_2: 1
  
 
 # Feedback
@@ -34,6 +37,9 @@ I thank Lisa for the suggestion and initiative. I tell her that it's important t
 - bringoutthebest-accelerate-new-3_1: 0.1
 - rolemodel-driveoutcome-new-1_1: 0.3
 - rolemodel-driveoutcome-new-1_3: 1
+- rolemodel-driveoutcome-new-3_3: 0.1
+- rolemodel-driveoutcome-new-4_1: 0.3
+- rolemodel-driveoutcome-new-4_2: 0.1
 
 # Feedback
 It's great that you want to explore the issue of low-quality A3s in more detail yourself. However, to further develop Lisa you might want to consider ways to engage her in the entire process, e.g. by involving her more in your own diagnosis of the problem. 
@@ -53,6 +59,9 @@ I thank Lisa for the suggestion but tell her that I'm not sure this solution add
 - bringoutthebest-accelerate-new-2_1: 0.9
 - bringoutthebest-accelerate-new-3_1: 0.9
 - rolemodel-driveoutcome-new-1_3: 0.5
+- rolemodel-driveoutcome-new-3_3: 0.7
+- rolemodel-driveoutcome-new-4_1: 1
+- rolemodel-driveoutcome-new-4_2: 1
 
 # Feedback
 Good choice. You are right to suggest a systematic problem solving before committing to a particular solution, and it's great that you're inviting Lisa to be a part of this. As an AM, it's important to be able to coach and delegate work to your employees.
@@ -70,6 +79,10 @@ I thank Lisa for raising this issue but tell her that I'm concerned about narrow
 - bringoutthebest-accelerate-new-1_4: 0.1
 - bringoutthebest-accelerate-new-2_1: 0.8
 - rolemodel-driveoutcome-new-1_3: 0.1
+- rolemodel-driveoutcome-new-3_2: 0.1
+- rolemodel-driveoutcome-new-3_3: 0.1
+- rolemodel-driveoutcome-new-4: 0.1
+- rolemodel-driveoutcome-new-4_3: 1
 
 # Feedback
 Your focus on developing your team's capabilities in the long term is great. However, you should consider doing a systematic problem solving before suggesting to do a team-wide re-training. Perhaps the issue of low quality A3s is not due to lack of competencies and your training efforts would then be a waste. 
