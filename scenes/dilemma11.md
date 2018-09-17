@@ -17,8 +17,9 @@ How do you address these arrangements?
 # Choice
 I actually don't see the need to address this. The arrangements seem to be working out for everybody. It's great to have an independent team that has such good teamwork. 
 # Variables
- 
- 
+- rolemodel-driveoutcome-new-2_2: 0.1 
+- rolemodel-driveoutcome-new-3_1: 0.1
+- rolemodel-driveoutcome-new-4: 0.8
 
 # Feedback
 
@@ -30,7 +31,13 @@ This is a dilemma about accountability, setting direction, building trust and em
 # Choice
 Even though nobody has raised it as an issue, some employees might not be satisfied with these arrangements. I ask around to get an understanding of the atmosphere in the team about how the tasks have been divided. If I trace some discontent, I'll have the team come up with an alternative solution that ensures a good working climate for all teammembers.
 # Variables
-
+- yourself-seekunderstanding-new-1_4: 0.8
+- yourself-seekunderstanding-new-3_1: 0.8
+- yourself-seekunderstanding-new-3_3: 0.8
+- yourself-seekunderstanding-new-4_1: 0.7
+- bringoutthebest-buildteams-new-1: 0.8
+- rolemodel-driveoutcome-new-2_2: 0.5
+- rolemodel-driveoutcome-new-3_3: 0.8
 
 
 # Feedback
@@ -43,8 +50,9 @@ This is a dilemma about accountability and setting direction while building trus
 Continuous quality control is a part of all my team members' job descriptions and I expect everybody to conduct the control. I address this at our next team meeting. I tell the team that I expect everybody to do the quality control going forward. The only valid reason for not conducting quality control is a doctor's note, which should be presented to me. 
 
 # Variables
-
- 
+- rolemodel-setdirection-new-1_2: 1
+- rolemodel-driveoutcome-new-2_2: 1
+- rolemodel-driveoutcome-new-3: 0.1
 
 # Feedback
 It's great that you decide to set a clear direction. All team members are trained in this process and registered as such in ISOtrain and therefore have to maintain their skill in conducting quality control. Pay attention to not becoming too directive in your communication as you want to build trust between you and the team members. Another approach, could be to also address the situation in 1:1 talks with the team members you know haven't been conducting quality control to better understand their reasons for not involving you.
