@@ -15,8 +15,10 @@ What do you do?
 I revisit the gowning standard (SOP) together with one of my team members, to make sure I understand the procedure myself. Afterwards, I let the team know that I will process confirm the SOP and then I take time to observe the gowning behaviours of my employees a number of times before I decide on what actions to take. 
 
 # Variables
-
-
+- bringoutthebest-buildteams-new-1_1: 0.7
+- rolemodel-driveoutcome-new-1_3: 1
+- rolemodel-driveoutcome-new-1_4: 0.6
+- rolemodel-driveoutcome-new-2_2: 0.9
 
 # Feedback
 
@@ -30,8 +32,12 @@ This is a dilemma between taking the time to go out to see and understand how wo
 I make sure to send an email to my team that same day to let them know that I will be process confirming the gowning SOP because it is not being followed. I then go to the changing area a few Mondays in a row to observe the gowning behaviours. If I observe anyone who doesn't follow the standard, I let them know on the spot and advise them what they need to do differently.
 
 # Variables
-
-
+- yourself-seekunderstanding-new-2_1: 0.2
+- bringoutthebest-buildteams-new-1_1: 0.2
+- bringoutthebest-buildteams-new-1_2: 0.2
+- bringoutthebest-buildteams-new-2_3: 0.3
+- rolemodel-driveoutcome-new-1_3: 0.3
+- rolemodel-driveoutcome-new-1_4: 1
 
 # Feedback
 It's great that you're responding so quickly to the news of possible non-compliance with standards in your team. However, be careful not to jump to conclusions maybe it wasn't your team members the colleagues were referring to. Letting your team know that you will be observing them in advance is the right thing to do. If you observe non-compliant behaviour, it's important you decide on more sustainable actions than just addressing the individual employee - it could be, that your entire team needs to be retrained or maybe it's not the quality of the SOP that is the root cause if you discover non-compliant behaviour. 
@@ -44,7 +50,8 @@ This is a dilemma between taking the time to go out to see and understand how wo
 I schedule a meeting with Louise, a trusted employee, to find out if there are any problems with following the gowning standard (SOP) in the team before I decide what actions to take.
 
 # Variables
-
+- rolemodel-driveoutcome-new-1_3: 0.1
+- rolemodel-driveoutcome-new-1_4: 0.4
 
 
 # Feedback
