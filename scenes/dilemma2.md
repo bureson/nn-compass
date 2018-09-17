@@ -17,7 +17,16 @@ How do you respond?
 I thank Hanne for bringing up the situation. I explain that I had made the decision quickly because I thought it was an insignificant change. I apologise that she felt left out of the process and ask her what we can do in the future to avoid these situations.
 
 # Variables
-
+- yourself-seekunderstanding-new-1_1: 0.5
+- yourself-seekunderstanding-new-1_4: 0.1
+- yourself-seekunderstanding-new-2_1: 0.2
+- yourself-seekunderstanding-new-3_1: 0.5
+- bringoutthebest-buildteams-new-1_2: 0.7
+- bringoutthebest-buildteams-new-1_3: 0.6
+- bringoutthebest-buildteams-new-1_5: 0.6
+- bringoutthebest-accelerate-new-1_1: 0.1
+- bringoutthebest-accelerate-new-1_3: 0.3
+- bringoutthebest-accelerate-new-1_4: 0.3
  
 
 # Feedback
@@ -31,8 +40,17 @@ This is a dilemma of being aware of and balancing own and others' thoughts and f
 I share with Hanne that we might have different working style preferences when it comes to being involved and engaging others in decisions about work processes. I ask Hanne what it means to her to be involved in a decision, and invite her to reflect on how we might avoid a similar situation in the future, while balancing both our working style preferences. 
 
 # Variables
-
-
+- yourself-seekunderstanding-new-1_1: 0.8
+- yourself-seekunderstanding-new-1_3: 0.7
+- yourself-seekunderstanding-new-1_4: 0.9
+- yourself-seekunderstanding-new-2_1: 1
+- yourself-seekunderstanding-new-3_1: 1
+- bringoutthebest-buildteams-new-1_2: 1
+- bringoutthebest-buildteams-new-1_3: 1
+- bringoutthebest-buildteams-new-1_5: 0.9
+- bringoutthebest-accelerate-new-1_1: 0.8
+- bringoutthebest-accelerate-new-1_3: 0.9
+- bringoutthebest-accelerate-new-1_4: 1
 
 # Feedback
 Excellent choice. It's great that you address your different working style preferences. Figuring out a way to work around these in the future will be important for ensuring a collaborative and high-performing team. Staying curious about what you can both learn from the process also demonstrates a strong growth mindset. 
@@ -44,8 +62,17 @@ This is a dilemma of being aware of and balancing own and others' thoughts and f
 After listening to Hanne, I acknowledge that it must have been a frustrating experience. However, I also explain that I don't always involve everyone in a decision unless it's important as it can impact efficiency and execution in the team. I tell Hanne that I need her to trust my ability to make these decisions, and I encourage her to bring up issues like these earlier so we can clear out any confusion sooner rather than later.
 
 # Variables
-
-
+- yourself-seekunderstanding-new-1_1: 0.1
+- yourself-seekunderstanding-new-1_3: 0.1
+- yourself-seekunderstanding-new-1_4: 0.1
+- yourself-seekunderstanding-new-2_1: 0.1
+- yourself-seekunderstanding-new-3_1: 0.1
+- bringoutthebest-buildteams-new-1_2: 0.2
+- bringoutthebest-buildteams-new-1_3: 0.2
+- bringoutthebest-buildteams-new-1_5: 0.1
+- bringoutthebest-accelerate-new-1_1: 0.3
+- bringoutthebest-accelerate-new-1_3: 0.1
+- bringoutthebest-accelerate-new-1_4: 0.1
 
 # Feedback
  Consider inviting Hanne into a shared reflection on how your different working style preferences led to this situation, and identify ways to work around these in the future. Perhaps Hanne can learn how to better raise concerns with you, and perhaps you can learn how to better communicate decisions to your team. 
