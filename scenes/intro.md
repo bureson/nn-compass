@@ -1,17 +1,19 @@
 # Config
- - Title: Welcome to Competency Compass part I: Leadership Dilemmas
+ - Title: Welcome to Competency Compass part I: Leadership dilemmas
  - Next: dilemma1
  - Image: https://flemmingfog.github.io/spike/donut.jpg
 
 # Description
-In the following you will meet a series of leadership dilemmas. For each dilemma you must choose between 3-4 options. 
+In the following you will meet a series of realistic leadership dilemmas from the daily life in Product Supply. 
 
-In case a dilemma is not directly referable to your team or department, we encourage you to compare it to a similar situation and base the answer on your reflections.
+For each dilemma you must choose between 3-4 options. If none of the options really match what you would do in real life, please pick the one that you agree the most with
 
 You will get feedback on your choices when you have completed all dilemmas.
 
 Note that your results will be saved if you are not able to complete the dilemmas in one session.
 
+The Competency Compass is a private tool, nobody will see your results unless you choose to share it. 
 
 Click ‘Next’ to proceed.
+
 
