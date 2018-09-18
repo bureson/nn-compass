@@ -23,7 +23,7 @@ I revisit the gowning standard (SOP) together with one of my team members, to ma
 # Feedback
 
 This is a great choice. It underlines your thorough understanding of process confirmation and the value of going to where the problem may be to gather and process data first. It's great that you don't jump to conclusions when you hear of the possible non-compliance with standards in your team. 
-This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment
+This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment.
 
 
 
@@ -41,7 +41,7 @@ I make sure to send an email to my team that same day to let them know that I wi
 
 # Feedback
 It's great that you're responding so quickly to the news of possible non-compliance with standards in your team. However, be careful not to jump to conclusions maybe it wasn't your team members the colleagues were referring to. Letting your team know that you will be observing them in advance is the right thing to do. If you observe non-compliant behaviour, it's important you decide on more sustainable actions than just addressing the individual employee - it could be, that your entire team needs to be retrained or maybe it's not the quality of the SOP that is the root cause if you discover non-compliant behaviour. 
-This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment
+This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment.
 
 
 
@@ -56,7 +56,7 @@ I schedule a meeting with Louise, a trusted employee, to find out if there are a
 
 # Feedback
 It's a good idea to explore the issue in more detail instead of immediatly assum that your team members are not following the gowning standard. However, it's best to go out and openly process confirm if in fact the SOP is being followed or not instead of only talking to one team member. 
-This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment
+This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment.
 
 
 
