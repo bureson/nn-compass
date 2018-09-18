@@ -82,7 +82,7 @@ The only way to include Olga in the team is to make all team members speak Engli
 - rolemodel-driveoutcome-new-2_2: 1
 
 # Feedback
-This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually  
+This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language they will eventually.
 
 This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and inclusive  (collaborative) work environment on the other.
 
