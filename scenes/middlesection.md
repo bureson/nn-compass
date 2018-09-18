@@ -1,7 +1,7 @@
 # Config
 - Title: Well done!
 - Next: dilemma1Feedback
-- Image: https://flemmingfog.github.io/spike/donut.jpg
+- Image: https://mikkelschou.github.io/demo/leadership_dilemma_welldone.jpg
 
 # Description
 Click ‘Next’ to get feedback on the choice you made in each dilemma. 
