@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 11: Excused from continuous quality control?
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_11.jpg
  - Next: middlesection
 
 # Description
