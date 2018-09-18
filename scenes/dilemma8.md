@@ -22,7 +22,7 @@ I revisit the gowning standard (SOP) together with one of my team members, to ma
 
 # Feedback
 
-This is a great choice. It underlines your thorough understanding of process confirmation and the value of to going to where the problem may be to gather and process data first. It's great that you don't jump to conclusions when you hear of the possible non-compliance with standards in your team. 
+This is a great choice. It underlines your thorough understanding of process confirmation and the value of going to where the problem may be to gather and process data first. It's great that you don't jump to conclusions when you hear of the possible non-compliance with standards in your team. 
 This is a dilemma between taking the time to go out to see and understand how working processes are performing, building trust and ensuring an enganging working environment
 
 
