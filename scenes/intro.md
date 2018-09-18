@@ -10,7 +10,7 @@ For each dilemma you must choose between 3-4 options. If none of the options rea
 
 You will get feedback on your choices when you have completed all dilemmas.
 
-Note that your results will be *saved* if you are not able to complete the dilemmas in one session.
+Note that your results will be **saved** if you are not able to complete the dilemmas in one session.
 
 The Competency Compass is a private tool, nobody will see your results unless you choose to share it. 
 
