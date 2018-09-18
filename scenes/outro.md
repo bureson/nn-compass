@@ -1,6 +1,6 @@
 # Config
  - Title: Excellent!
- - Image: https://flemmingfog.github.io/spike/donut.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_alldone.jpg
  
 
 # Description
