@@ -8,7 +8,7 @@ Olga was recruited to your team from Russia three months ago. She has a highly s
 
 When Olga joined the team, you asked everyone to make English the common language in the team.
 
- However, you're noticing that this doesn't always happen. In fact, everyone besides Olga speaks Danish most of the time, as it turns out they don't feel comfortable expressing themselves in English. Meanwhile, Olga is beginning to come in late to work , skips social gatherings and she doesn't come for coffee breaks with the rest of the team.
+ However, you're noticing that this doesn't always happen. In fact, everyone besides Olga speaks Danish most of the time, as it turns out they don't feel comfortable expressing themselves in English. Meanwhile, Olga is beginning to come in late to work, skips social gatherings and she doesn't come for coffee breaks with the rest of the team.
 
 What do you do?
 
