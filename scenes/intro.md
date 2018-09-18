@@ -1,7 +1,7 @@
 # Config
  - Title: Welcome to Competency Compass part I: Leadership dilemmas
  - Next: dilemma1
- - Image: https://flemmingfog.github.io/spike/donut.jpg
+ - Image: https://mikkelschou.github.io/demo/leadership_dilemma_welcome.jpg
 
 # Description
 In the following you will meet a series of realistic leadership dilemmas from the daily life in Product Supply. 
