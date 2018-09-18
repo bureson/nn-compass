@@ -11,7 +11,7 @@ You used to work with Daniel in a different team years ago, and you have a great
 How do address your employees' complaints?
 
 # Choice
-I know that my own positive experience with Daniel from the past could impact my judgment of him., so I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore if there could be some underlying reasons why my team members would complain about his performance. 
+I know that my own positive experience with Daniel from the past could impact my judgment of him so I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore if there could be some underlying reasons why my team members would complain about his performance. 
 
 # Variables
 - yourself-seekunderstanding-new-1_1: 0.9
