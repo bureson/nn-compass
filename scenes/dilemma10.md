@@ -34,7 +34,7 @@ In the afternoon, John, Lilli and I sit down together so we can talk this disagr
 # Feedback
 
 It's great that you take time to sit down and mediate the disagreement. This gives you the possibility to sort out the misunderstanding between the two team members. However, this disagreement might be a matter that you should handle right away, since their discussion could evolve from morning to afternoon and make it harder to resolve. 
-This is a dilemma of building setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.
+This is a dilemma of setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.
 
 
 
@@ -52,7 +52,7 @@ Lilli is right in this situation, so, on the spot I give John a super quick upda
 
 # Feedback
 This choice reflects that you are making effective decisions. Yes, Lilli is right, but John wasn't informed. It might be a good idea to investigate why John and Lilli's discussion ended in such a heated manner - not just with Lilli. You may also consider to give John the update in a 1:1 talk instead.
-This is a dilemma of building setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.
+This is a dilemma of setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.
 
 
 
@@ -73,7 +73,7 @@ I suggest to John that we have a 1:1 talk right away, even though I'll be late f
 
 # Feedback
 It's good to sit down with John to update him and also doing it right away. His behaviour is based on lack of information, so remember this when you sit down with him. Asking him to proactively follow up on team meetings and hand over tasks are good decisions and ensure timely procedures. 
-This is a dilemma of building setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.
+This is a dilemma of setting direction while facilitating trust and relationships in the team and promoting a healthy and engaging work environment.
 
 
 
