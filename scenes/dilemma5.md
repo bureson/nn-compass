@@ -25,7 +25,7 @@ I know that my own positive experience with Daniel from the past could impact my
 
 It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. 
 
-This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team .
+This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team.
 
 
 # Choice
@@ -37,7 +37,7 @@ I need to get a better understanding of Daniel's overall performance and how Dan
 - yourself-seekunderstanding-new-3_1: 0.7
 
 # Feedback
-It's good that you're keeping an open mind instead of jumping to conclusions and want to consider Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. Getting input from other stakeholders is a good way to challenge you own biases as your own positive experience with Daniel from the past may impact your judgment of him and the entire situation
+It's good that you're keeping an open mind instead of jumping to conclusions and want to consider Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. Getting input from other stakeholders is a good way to challenge you own biases as your own positive experience with Daniel from the past may impact your judgment of him and the entire situation.
 This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team.
 
 
@@ -60,7 +60,7 @@ Even if Daniel is performing poorly we're all responsible for giving him timely 
 
 # Feedback
 This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance. 
-This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team.
+This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members and setting direction for your team.
 
 
 
