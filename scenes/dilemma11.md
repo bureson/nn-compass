@@ -29,7 +29,8 @@ This is a dilemma about accountability, setting direction, building trust and em
 
 
 # Choice
-Even though nobody has raised it as an issue, some employees might not be satisfied with these arrangements. I ask around to get an understanding of the atmosphere in the team about how the tasks have been divided. If I trace some discontent, I'll have the team come up with an alternative solution that ensures a good working climate for all teammembers.
+Even though nobody has raised it as an issue, some employees might not be satisfied with these arrangements. I ask around to get an understanding of the atmosphere in the team about how the tasks have been divided. If I trace some discontent, I'll have the team come up with an alternative solution that ensures a good working climate for all team members.
+
 # Variables
 - yourself-seekunderstanding-new-1_4: 0.8
 - yourself-seekunderstanding-new-3_1: 0.8
