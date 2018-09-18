@@ -24,7 +24,7 @@ After talking to her, I send her a follow-up e-mail which outlines the consequen
 
 # Feedback
 Pushing back on your direct manager's decision can be healthy. However, in this case Vivian has made it clear that the shift needs to happen. You have full information about the importance of your current project, but she could have information about the importance of the new project. Consider asking Vivian for  further clarification on the urgency of the new project as you might delay critical work processes that are of higher priority to the business. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action  
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.  
 
 
 
@@ -51,7 +51,7 @@ I call for an emergency meeting with the two members of my team and let them kno
 
 # Feedback
 It's great that you're so quick to initiate the shift. However, you should also think about ways to engage your team members in this transition. For example, you could seek clarification on the urgency of the new project from Vivian so you are better able to explain to your team members why the shift is so important. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.
 
 
 
@@ -77,7 +77,7 @@ This is a dilemma between demonstrating agility and adapting quickly to change, 
 
 # Feedback
 Great choice. When confusion arises it's important to seek clarification and speak your mind. By firstly telling Vivian that you're keen to make the shift, and then stating that you need more clarification, you make it clear that you are supportive of her decision. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.
 
 
 
@@ -100,6 +100,6 @@ I call for a meeting with the two members of my team.  I make sure to let them k
 
 # Feedback
 Good choice. Sometimes we have to come to terms with decisions that we don't necessarily agree with. Engaging your team members in the preparation of the shift is likely to empower them in a situation where they may easily feel out of control. You could consider seeking further clarification on the urgency of the new project from Vivian so you better can explain why the shift is so urgent. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.
 
 
