@@ -19,12 +19,12 @@ How do you respond?
  I sit down with Lone to get a better understanding of her motivations for pursuing a new career path. I'm honest about how I experience her leadership skills and suggest that she gets some training in the needed skills. I also tell her that if she decides to go ahead and apply for the leadership position I will not stand in her way. I accept to be her referral but let her know that I will have to share my concerns if I'm asked to provide a reference. I also ask her to work with me and the team over the next three months, in case she get the job, to ensure that her knowledge about the core process is transferred to the team before she leaves.
 
 # Variables
-- yourself-seekunderstanding-new-1_4: 0.1
-- yourself-seekunderstanding-new-3_1: 0.1
-- bringoutthebest-accelerate-new-1_1: 0.1
+- yourself-seekunderstanding-new-1_4: 0.5
+- yourself-seekunderstanding-new-3: 0.5
+- bringoutthebest-accelerate-new-1_1: 0.7
 - bringoutthebest-accelerate-new-1_2: 0.1
 - bringoutthebest-accelerate-new-2_1: 0.1
-- bringoutthebest-accelerate-new-2_2: 0.1
+- bringoutthebest-accelerate-new-3_2: 0.1
 - rolemodel-driveoutcome-new-1: 0.7
 
 
@@ -38,13 +38,14 @@ This is a dilemma of balancing how you develop your team members, provide sincer
 I sit down with Lone and decide to give her my sincere feedback. I exemplify why I don't think she's ready yet and suggest that we develop a detailed 6-month development plan for her where she can get exposure to and training in the needed leadership skills. If she still wants to take on a leadership role after these six months, and has demonstrated growth, I will be happy to give her my full support and be her referral. Getting Lone to stay in my team for a few more months would also buy me time to get the rest of the team more familiar with the core process.   
 
 # Variables
-- yourself-seekunderstanding-new-1_4: 0.1
-- yourself-seekunderstanding-new-3_1: 0.7
+- yourself-seekunderstanding-new-1_4: 0.2
+- yourself-seekunderstanding-new-3: 0.7
 - bringoutthebest-accelerate-new-1_1: 1
+- bringoutthebest-accelerate-new-1_2: 0.4
 - bringoutthebest-accelerate-new-2_1: 0.7
-- bringoutthebest-accelerate-new-2_2: 0.1
 - bringoutthebest-accelerate-new-3_2: 0.8
-- rolemodel-driveoutcome-new-1: 0.7
+- bringoutthebest-accelerate-new-3_3: 0.6
+- rolemodel-driveoutcome-new-1: 0.8
 
 # Feedback
 Great decision. It's always good to be curious about your employees' development goals, and offer constructive and sincere feedback along the way. One possible challenge is that by committing to developing Lone's leadership skills over the next six months you might reduce your team's productivity, as Lone will not be fully focused on her core tasks. By developing her leadership skills you will have to spend additional resources. 
@@ -60,13 +61,12 @@ Lone is a valuable team member and I would hate to see her leave. I sit down wit
 
 # Variables
 - yourself-seekunderstanding-new-1_4: 0.8
-- yourself-seekunderstanding-new-3_1: 0.8
+- yourself-seekunderstanding-new-3: 0.9
 - bringoutthebest-accelerate-new-1_1: 0.1
 - bringoutthebest-accelerate-new-1_2: 0.6
 - bringoutthebest-accelerate-new-2_1: 0.5
-- bringoutthebest-accelerate-new-2_2: 0.1
 - bringoutthebest-accelerate-new-3_3: 0.7
-- rolemodel-driveoutcome-new-1: 0.7
+- rolemodel-driveoutcome-new-1: 0.6
 
 
 # Feedback
