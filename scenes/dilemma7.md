@@ -14,7 +14,7 @@ How do you respond?
 
 
 # Choice
-I thank Jens for his suggestion and initiative to reduce system breakdowns. I ask him to update the maintenance plan for the pump and increase the frequency of impeller blade replacements so we can implement his suggestion as fast as possible.  
+I thank Jens for this suggestion and initiative but tell him that we need to free up some of his time by sorting out which of his other tasks that can be delegated to others. At the moment he is too busy managing the daily maintenance to also implement the new impeller blade replacement system.  Until the delegation is in place, it's better that Jens manages the daily maintenance schedule and fixes the occasional pump replacements if it should occur.   
 
 # Variables
 - bringoutthebest-buildteams-new-1_1: 0.3
