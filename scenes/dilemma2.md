@@ -4,13 +4,15 @@
  - Next: dilemma3
 
 # Description
-You're in one of your monthly 1:1 meetings with Hanne, a trusted employee, who has been with your team for more than two years. 
+You're in a meeting with Hanne, a trusted employee, who has been with your team for more than two years. 
 
 In the meeting, Hanne brings up a situation three months ago where you didn't involve her in a decision regarding a work process that she is part of. She explains that she felt left out.
 
 You know that Hanne has a big need to be involved. However, you sometimes get frustrated with too many meetings and too much talking. In this case, you also think that the decision was so minor that a meeting with Hanne wasn't really necessary.
 
 How do you respond?
+
+
 
 
 # Choice
