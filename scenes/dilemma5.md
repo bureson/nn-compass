@@ -17,7 +17,7 @@ I know that my own positive experience with Daniel from the past could impact my
 - yourself-seekunderstanding-new-1_1: 0.9
 - yourself-seekunderstanding-new-1_2: 0.9
 - yourself-seekunderstanding-new-1_4: 0.9
-- yourself-seekunderstanding-new-3_1: 0.8
+- yourself-seekunderstanding-new-3: 0.8
 - yourself-seekunderstanding-new-4_1: 0.8
 - bringoutthebest-buildteams-new-1_1: 1
 
