@@ -86,6 +86,7 @@ This is a dilemma between demonstrating agility and adapting quickly to change, 
 I call for a meeting with the two members of my team.  I make sure to let them know that they are doing a good job, then I tell them about the shift in priorities and explain that their time is more valuable to the new project. I ask them how they want to communicate the delay of our current deliverables to our stakeholders, and ask them to help me come up with a plan for the shift.
 
 # Variables
+- yourself-seekunderstanding-new-1_4: 0.9
 - yourself-seekunderstanding-new-2_1: 1
 - yourself-seekunderstanding-new-2_2: 0.9
 - yourself-seekunderstanding-new-4_2: 0.8
