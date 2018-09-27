@@ -15,7 +15,8 @@ How do you address these arrangements?
 
 
 # Choice
-I actually don't see the need to address this. The arrangements seem to be working out for everybody. It's great to have an independent team that has such good teamwork. 
+ It's great to have an independent team that has such good teamwork. The arrangements seem to be working out for everybody and I don't want to micro manage my team by adressing these arrangements.
+ 
 # Variables
 - rolemodel-driveoutcome-new-2_2: 0.1 
 - rolemodel-driveoutcome-new-3_1: 0.1
