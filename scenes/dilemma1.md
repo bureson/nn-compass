@@ -9,14 +9,14 @@ Lone has been working in your team for the past two years. She's highly skilled 
 
 Your team has been very busy this past year, so you haven't had a chance to plan how her knowledge is going to be shared with the rest of the team. 
 
-During one of your recurrent development dialogues you are surprised to learn that she wants to transition into leadership in a different part of Novo Nordisk. 
+During a dialogues with Lone you are surprised to learn that she wants to transition into leadership in a different part of Novo Nordisk. 
 
-Based on your experience working with her, you don't think she'd be a good fit for a leadership role; she really struggles to delegate work and set direction. In the meeting she tells you that she's strongly considering applying for the leadership position and she would like you to be her referral. 
+Based on your experience working with her, you don't think she'd be a good fit for a leadership role; she really struggles to delegate work and set direction. Lone tells you that she's strongly considering applying for the leadership position and she would like you to be her referral. 
 
 How do you respond?
 
 # Choice
- I don’t think Lone would thrive in a leadership role, but I acknowledge that this is something she wants to do. So I accept to be her referral. I also tell her that I need her to work with me and the team over the next three months to ensure that her knowledge about the core process is transferred to the team. 
+ I sit down with Lone to get a better understanding of her motivations for pursuing a new career path. I'm honest about how I experience her leadership skills and suggest that she gets some training in the needed skills. I also tell her that if she decides to go ahead and apply for the leadership position I will not stand in her way. I accept to be her referral but let her know that I will have to share my concerns if I'm asked to provide a reference. I also ask her to work with me and the team over the next three months, in case she get the job, to ensure that her knowledge about the core process is transferred to the team before she leaves.
 
 # Variables
 - yourself-seekunderstanding-new-1_4: 0.1
@@ -29,8 +29,8 @@ How do you respond?
 
 
 # Feedback
-It's great that you're being supportive of Lone's growth within Novo Nordisk, while also keeping the business' goals in mind. However, if you think that Lone isn't fit for a leadership role you ought to have a conversation with her about her motivation to transition into leadership and be more frank about how you see her potential -or lack of potential - to become a leader. 
-This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running.
+Thumbs-up for your transparency and sincerity! It's great that you give Lone your honest feedback about how you see her leadership potential - or lack of - while also paying attention to her career aspirations and the business' goals. Keep in mind that Lone might decide to stay in your team. In that case, consider how to handle her development and keep providing her your sincere feedback.  
+This is a dilemma of balancing how you develop your team members, provide sincere feedback and keep the business running
 
 
 
