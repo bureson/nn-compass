@@ -13,7 +13,7 @@ Vivian insists that the the new project needs to start immediately.
 What do you do?
 
 # Choice
-After talking to her, I send her a follow-up e-mail which outlines the consequences of her request, as I see it. I ask her to reconsider the decision, or at least postpone it by another two weeks until we are done with the current project. 
+After talking to her, I can feel that I'm still worried about putting the current project on hold. I decide to call her for a follow-up talk where I explain my concerns and the consequences of her request, as I see it. I ask her to reconsider the decision, or at least postpone it by another two weeks until we are done with the current project. 
 
 # Variables
 - yourself-seekunderstanding-new-3_1: 0.1
@@ -23,8 +23,9 @@ After talking to her, I send her a follow-up e-mail which outlines the consequen
 - rolemodel-driveoutcome-new-2_2: 0.8
 
 # Feedback
-Pushing back on your direct manager's decision can be healthy. However, in this case Vivian has made it clear that the shift needs to happen. You have full information about the importance of your current project, but she could have information about the importance of the new project. Consider asking Vivian for  further clarification on the urgency of the new project as you might delay critical work processes that are of higher priority to the business. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.  
+Pushing back on your direct manager's decision can be healthy. However, in this case Vivian has made it clear that the shift needs to happen. You have full information about the importance of your current project, but she could have information about the importance of the new project. Consider asking Vivian for  further clarification on the urgency of the new project instaed of only stating your own concerns once more. You might delay critical work processes that are of higher priority to the business. 
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action  
+
 
 
 
@@ -50,8 +51,8 @@ I call for an emergency meeting with the two members of my team and let them kno
 - rolemodel-driveoutcome-new-3_3: 0.1
 
 # Feedback
-It's great that you're so quick to initiate the shift. However, you should also think about ways to engage your team members in this transition. For example, you could seek clarification on the urgency of the new project from Vivian so you are better able to explain to your team members why the shift is so important. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.
+It's great that you're so quick to initiate the shift. However, you should also think about ways to involve your team members in this transition to ensure their engagement. For example, you could seek clarification on the urgency of the new project from Vivian so you are better able to explain to your team members why the shift is so important. 
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action
 
 
 
