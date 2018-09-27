@@ -6,13 +6,14 @@
 # Description
 You are leading a team that works in a controlled, not classified (CNC) area. This means that there is a standard which specifies how to gown.
 
-Over the past week you've overheard some colleagues discuss that the procedure for gowning is not being followed. You don't know if it goes for your team.
+You've just overheard some colleagues discuss that the procedure for gowning is not being followed. You don't know if it goes for your team.  
+Today  it's Tuesday and on Friday you are going away on holiday.
 
-What do you do?  
+What do you do?
 
 
 # Choice
-I revisit the gowning standard (SOP) together with one of my team members, to make sure I understand the procedure myself. Afterwards, I let the team know that I will process confirm the SOP and then I take time to observe the gowning behaviours of my employees a number of times before I decide on what actions to take. 
+I revisit the gowning standard (SOP) together with one of my team members, to make sure I understand the procedure myself. Afterwards, I let the team know that I will process confirm the SOP. The following day I take time out to observe the gowning behaviours of my employees during peak hours before I decide on what actions to take. 
 
 # Variables
 - bringoutthebest-buildteams-new-1_1: 0.7
@@ -29,7 +30,7 @@ This is a dilemma between taking the time to go out to see and understand how wo
 
 
 # Choice
-I make sure to send an email to my team that same day to let them know that I will be process confirming the gowning SOP because it is not being followed. I then go to the changing area a few Mondays in a row to observe the gowning behaviours. If I observe anyone who doesn't follow the standard, I let them know on the spot and advise them what they need to do differently.
+It's important for me to solve this issue before I go on holiday. I take action by sending an email to my team to let them know that I will be process confirming the gowning SOP because it is not being followed. I then go to the changing area every day up until Friday to observe the gowning behaviours. If I observe anyone who doesn't follow the standard I advise them what they need to do differently.
 
 # Variables
 - yourself-seekunderstanding-new-2_1: 0.2
