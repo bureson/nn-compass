@@ -29,24 +29,6 @@ This is a dilemma about accelerating team members development, empower others to
 
 
 
-# Choice
-I thank Lisa for the suggestion and initiative. I tell her that it's important to identify the root cause of the problem, so I will take a look at the A3s myself and get back to her when I've identified the best solution.
-
-# Variables
-- bringoutthebest-accelerate-new-1_4: 0.1
-- bringoutthebest-accelerate-new-3_1: 0.1
-- rolemodel-driveoutcome-new-1_1: 0.3
-- rolemodel-driveoutcome-new-1_3: 1
-- rolemodel-driveoutcome-new-3_3: 0.1
-- rolemodel-driveoutcome-new-4_1: 0.3
-- rolemodel-driveoutcome-new-4_2: 0.1
-
-# Feedback
-It's great that you want to explore the issue of low-quality A3s in more detail yourself. However, to further develop Lisa you might want to consider ways to engage her in the entire process, e.g. by involving her more in your own diagnosis of the problem. 
-This is a dilemma about accelerating team members development, empower others to take action and building a culture where problems are eliminated at root cause.
-
-
-
 
 
 # Choice
