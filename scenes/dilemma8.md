@@ -16,7 +16,7 @@ What do you do?
 I revisit the gowning standard (SOP) together with one of my team members, to make sure I understand the procedure myself. Afterwards, I let the team know that I will process confirm the SOP. The following day I take time out to observe the gowning behaviours of my employees during peak hours before I decide on what actions to take. 
 
 # Variables
-- bringoutthebest-buildteams-new-1_1: 0.7
+- bringoutthebest-buildteams-new-1_1: 0.8
 - rolemodel-driveoutcome-new-1_3: 1
 - rolemodel-driveoutcome-new-1_4: 0.6
 - rolemodel-driveoutcome-new-2_2: 0.9
@@ -33,7 +33,7 @@ This is a dilemma between taking the time to go out to see and understand how wo
 It's important for me to solve this issue before I go on holiday. I take action by sending an email to my team to let them know that I will be process confirming the gowning SOP because it is not being followed. I then go to the changing area every day up until Friday to observe the gowning behaviours. If I observe anyone who doesn't follow the standard I advise them what they need to do differently.
 
 # Variables
-- yourself-seekunderstanding-new-2_1: 0.2
+- yourself-seekunderstanding-new-2_1: 0.1
 - bringoutthebest-buildteams-new-1_1: 0.2
 - bringoutthebest-buildteams-new-1_2: 0.2
 - bringoutthebest-buildteams-new-2_3: 0.3
