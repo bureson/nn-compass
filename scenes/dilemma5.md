@@ -11,7 +11,7 @@ You used to work with Daniel in a different team years ago, and you have a great
 How do address your employees' complaints?
 
 # Choice
-I know that my own positive experience with Daniel from the past could impact my judgment of him so I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore if there could be some underlying reasons why my team members would complain about his performance. 
+I know that my own positive experience with Daniel from the past could impact my judgment of him. I therefore talk to a few stakeholders outside of my team who have worked with him to get their views on his performncne before I approach Daniel. I contact HR to discuss a good way to explore the team's dynamics and  if there could be some underlying reasons why my team members would complain about Daniel's performance. 
 
 # Variables
 - yourself-seekunderstanding-new-1_1: 0.9
@@ -23,8 +23,7 @@ I know that my own positive experience with Daniel from the past could impact my
 
 # Feedback
 
-It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. 
-
+It's great that you're keeping an open mind here.  Getting input from other stakeholders is a good way to challenge you own biases as your positive experience with Daniel from the past may impact your judgment of him.  You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. 
 This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members  and setting direction for your team.
 
 
@@ -59,7 +58,7 @@ Even if Daniel is performing poorly we're all responsible for giving him timely 
 
 
 # Feedback
-This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance. 
+This is an interesting choice which demonstrates a strong commitment to supporting your team's development. It's also great that you're keeping an open mind instead of jumping to conclusions about Daniels performance.  Remember to be aware of your own biases meaning  that your own positive experience with Daniel from the past may impact your judgment of him and the entire situation. 
 This is a dilemma about being aware of own biases, others' emotions while also providing sincere feedback, developing your team members and setting direction for your team.
 
 
