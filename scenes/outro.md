@@ -6,6 +6,6 @@
 # Description
 You have completed the Competency Compass Part I. 
 
-Click ‘Complete’ and you will be directed to the self-evaluation part.
+Click ‘Submit’ and you will be directed to the self-evaluation part.
 
 
