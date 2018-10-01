@@ -30,9 +30,9 @@ I understand that my Danish team members are not comfortable speaking English al
 
 # Feedback
 
-It's good that you're mindful of your Danish team members' emotions. However, it might be at the expense of Olga's wellbeing. If you tell your team that they can speak Danish when Olga is not around, there is a risk that they will try to avoid her more.  
+This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language they will eventually.  
 
-This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and inclusive work environment on the other.
+This is a dilemma of balancing the emotions of others on the one hand, and creating a healthy and inclusive  (collaborative) work environment on the other.
 
 
 
