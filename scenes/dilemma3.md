@@ -43,12 +43,13 @@ I call for an emergency meeting with the two members of my team and let them kno
 - bringoutthebest-buildteams-new-3_2: 0.1
 - bringoutthebest-buildteams-new-4_1: 0.1
 - bringoutthebest-buildteams-new-4_4: 0.1
-- rolemodel-setdirection-new-1_2: 0.9
+- rolemodel-setdirection-new-1_2: 0.7
 - rolemodel-setdirection-new-2_2: 1
 - rolemodel-driveoutcome-new-1_1: 1
 - rolemodel-driveoutcome-new-1_2: 0.8
 - rolemodel-driveoutcome-new-1_4: 1
 - rolemodel-driveoutcome-new-3_3: 0.1
+
 
 # Feedback
 It's great that you're so quick to initiate the shift. However, you should also think about ways to involve your team members in this transition to ensure their engagement. For example, you could seek clarification on the urgency of the new project from Vivian so you are better able to explain to your team members why the shift is so important. 
