@@ -14,6 +14,6 @@ Note that your results will be **saved** if you are not able to complete the dil
 
 The Competency Compass is your private tool. Nobody will see your results unless you choose to share them. 
 
-Click ‘Next’ to proceed.
+Click ‘NEXT’ to proceed.
 
 
