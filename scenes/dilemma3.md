@@ -4,11 +4,11 @@
  - Next: dilemma4
  
 # Description
-Two specialised members of your team are working on a project that has a deadline in two weeks. Vivian, your direct manager, asks you to put the project on hold because she needs the two team members to work on a new project, which has a higher priority.  
+Two specialised members of your team are working on a project that has a deadline in two weeks. Vivian, your direct manager, asks you to put the project on hold because she needs the two team members to work on a new project, which has a higher priority. You worry about this decision. 
 
-You worry about this decision, and tell her that delaying the current project could lead to serious challenges for a wide range of internal stakeholders who rely on the outputs of the project to be completed on time. You also worry how your two team members will react.
+You decide to tell Vivian that delaying the current project could lead to serious challenges for a wide range of internal stakeholders who rely on the outputs of the project to be completed on time. You also worry how your two team members will react.
 
-Vivian insists that the the new project needs to start immediately.
+Vivian insists that the new project needs to start immediately.
 
 What do you do?
 
@@ -23,12 +23,10 @@ After talking to her, I can feel that I'm still worried about putting the curren
 - rolemodel-driveoutcome-new-2_2: 0.8
 
 # Feedback
-Pushing back on your direct manager's decision can be healthy. However, in this case Vivian has made it clear that the shift needs to happen. You have full information about the importance of your current project, but she could have information about the importance of the new project. Consider asking Vivian for  further clarification on the urgency of the new project instaed of only stating your own concerns once more. You might delay critical work processes that are of higher priority to the business. 
-This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action  
+Pushing back on your direct manager's decision can be healthy. However, in this case Vivian has made it clear that the shift needs to happen. You have full information about the importance of your current project, but she could have information about the importance of the new project. Consider asking Vivian for further clarification on the urgency of the new project instead of only stating your own concerns once more. You might delay critical work processes that are of higher priority to the business. 
 
 
-
-
+This is a dilemma between demonstrating agility and adapting quickly to change, inspire and support others through times of change as well as delegating and empovering others to take action.
 
 
 # Choice
@@ -84,7 +82,7 @@ This is a dilemma between demonstrating agility and adapting quickly to change, 
 
 
 # Choice
-I call for a meeting with the two members of my team.  I make sure to let them know that they are doing a good job, then I tell them about the shift in priorities and explain that their time is more valuable to the new project. I ask them how they want to communicate the delay of our current deliverables to our stakeholders, and ask them to help me come up with a plan for the shift.
+I call for a meeting with the two members of my team. I make sure to let them know that they are doing a good job. Then I tell them about the shift in priorities and explain that their time is more valuable to the new project. I ask them how they want to communicate the delay of our current deliverables to the stakeholders, and ask them to help me come up with a plan for the shift.
 
 # Variables
 - yourself-seekunderstanding-new-1_4: 0.9
