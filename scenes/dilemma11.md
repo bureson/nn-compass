@@ -4,14 +4,13 @@
  - Next: middlesection
 
 # Description
-In your team, all team members are trained to perform a certain quality control of the products to ensure proper quality. The control is a visual test that should be done in a strict order, sitting by a desk. 
+In your team, all team members are trained to perform a certain quality control. The control is a visual test that should be done in a strict order, sitting by a desk. 
 
 It has come to your attention that a few team members have made arrangements with their colleagues so they don't actually perform this task anymore. The team has simply divided the tasks amongst them, so everything gets done, but not everybody is conducting the quality control. The excuses for not conducting quality control are e.g. doctor's orders and back pains when sitting in specific positions.
 
 Nobody consulted you and nobody directly told you about these arrangements - it is something that you have sniffed out yourself.
 
 How do you address these arrangements? 
-
 
 
 # Choice
@@ -44,7 +43,8 @@ Even though nobody has raised it as an issue, some employees might not be satisf
 
 # Feedback
 It is good that you decide to investigate this self-organised arrangement further as it may legitimise similar arrangements in the future, which potentially can undermine you as the leader of the team. Another issue you should be aware of, is that you risk a GMP violation, since the team members haven't maintained their skill - at least if these arrangements become permanent. 
-This is a dilemma about accountability and setting direction while building trust and empowering others to take action.   
+
+This is a dilemma about accountability and setting direction while building trust and empowering others to take action. 
 
 
 
@@ -57,5 +57,6 @@ Continuous quality control is a part of all my team members' job descriptions an
 - rolemodel-driveoutcome-new-3: 0.1
 
 # Feedback
-It's great that you decide to set a clear direction. All team members are trained in this process and registered as such in ISOtrain and therefore have to maintain their skill in conducting quality control. Pay attention to not becoming too directive in your communication as you want to build trust between you and the team members. Another approach, could be to also address the situation in 1:1 talks with the team members you know haven't been conducting quality control to better understand their reasons for not involving you.
-This is a dilemma about accountability and setting direction while building trust and empowering others to take action.  
+It's great that you decide to set a clear direction. All team members are trained in this process and registered as such in ISOtrain and therefore have to maintain their skill in conducting quality control. Pay attention to not becoming too dominant in your communication as you want to build trust between you and the team members. Another approach, could be to also address the situation in 1:1 talks with the team members you know haven't been conducting quality control to better understand their reasons for not involving you.
+
+This is a dilemma about accountability and setting direction while building trust and empowering others to take action.    
