@@ -26,15 +26,15 @@ I thank Jens for his suggestion and initiative to reduce system breakdowns. I as
  
 
 # Feedback
+It's great that you're supportive of Jens' suggestion. Being able to identify and implement process improvements is core to the Novo Nordisk Way. However, you should make sure that the implementation of the new maintenance schedule is planned in a way that doesn't interfere with the current schedule and the working environment for Jens. By giving Jens more work, there is a risk that the workload will become too much for him and some of his other maintenance tasks will get delayed, which also could lead to expensive downtime. 
 
-It's great that you're supportive of Jens' suggestion. Being able to identify and implement process improvements is core to the Novo Nordisk Way. However, you should make sure that the implementation of the new maintenance schedule is planned in a way that doesn't interfere with the current schedule and the workin environment for Jens. By giving Jens more work, there is a risk that the workload will become too much for him and some of his other maintenance tasks will get delayed, which also could lead to expensive downtime. 
 This is a dilemma between creating time to eliminate waste and simplify processes while also ensuring a healthy work environment. 
 
 
 
 
 # Choice
-I thank Jens for this suggestion and initiative but tell him that we need to free up some of his time by sorting out which of his other tasks that can be delegated to others. At the moment he is too busy managing the daily maintenance to also implement the new impeller blade replacement system.  Until the delegation is in place, it's better that Jens manages the daily maintenance schedule and fixes the occasional pump replacements if it should occur. 
+I thank Jens for his suggestion and initiative but tell him that we need to delegate some of his tasks first. He is simply too busy managing the daily maintenance to also implement the new impeller blade replacement system. Until the delegation is in place, it's better that Jens manages the daily maintenance schedule and fixes the occasional pump replacements if it should occur. 
 
 # Variables
 - yourself-seekunderstanding-new-3_2: 0.9
@@ -48,7 +48,8 @@ I thank Jens for this suggestion and initiative but tell him that we need to fre
 - rolemodel-driveoutcome-new-4_3: 0.8
 
 # Feedback
-This is a great response. Being able to identify and implement process improvements is core to the Novo Nordisk Way. Therefore it's great  that you consider delegation as a way to make Jens' suggestion work and manage his workload at the same time. With this choice, you are delaying the new process improvement, but in the long run delegating some of Jens' tasks and responsibilities will lead to a more stable production, where Jens is not a bottleneck, fewer breakdowns and faster development of other team members. 
+This is a great response. Being able to identify and implement process improvements is core to the Novo Nordisk Way. Therefore, it's great that you consider delegation as a way to make Jens' suggestion work and manage his workload at the same time. With this choice, you are delaying the new process improvement, but in the long run delegating some of Jens' tasks will lead to a more stable production, where Jens is not a bottleneck, fewer breakdowns and faster development of other team members. 
+
 This is a dilemma about accelerating team members development, empower others to take action and building a culture where problems are eliminated at root cause.
 
 
@@ -56,7 +57,7 @@ This is a dilemma about accelerating team members development, empower others to
 
 
 # Choice
-I thank Jens for his suggestion and encourage him to implement the idea. However, before implementing the new maintenance schedule, I ask him to take the needed time to plan the replacements carefully so they don't interefere with his regular maintenance work. Once we have a good plan in place, we can initiate the new schedule.
+I thank Jens for his suggestion and encourage him to implement the idea. However, before implementing the new maintenance schedule, I ask him to take the needed time to plan the replacements carefully so they don't interfere  with his regular maintenance work. Once we have a good plan in place, we can initiate the new schedule.
 
 # Variables
 - bringoutthebest-buildteams-new-1_1: 0.8
@@ -67,7 +68,8 @@ I thank Jens for his suggestion and encourage him to implement the idea. However
 - rolemodel-driveoutcome-new-4_3: 0.3
 
 # Feedback
-Good choice. Being able to identify and implement process improvements is core to the Novo Nordisk Way. With this choice, you are delaying the new process improvement. However, your focus on planning should ensure that the new process is properly integrated into Jens' current maintenance schedule. This, in turn, will reduce unnecessary disruptions to his regular maintenance work. However, you should also consider delegation of some of Jens' tasks as a solution. Despite good planning, giving Jens more work could make him an even bigger bottlenek and you could soon find yourself in a similar sitiation again. Moreover, the workload may also become too much for Jens to handle in the long run.
+Good choice. Being able to identify and implement process improvements is core to the Novo Nordisk Way. With this choice, you are delaying the new process improvement. However, your focus on planning should ensure that the new process is properly integrated into Jens' current maintenance schedule. This, in turn, will reduce unnecessary disruptions to his regular maintenance work. However, you should consider delegation of some of Jens' tasks. Despite good planning, giving Jens more work could make him an even bigger bottleneck and you could soon find yourself in a similar situation again. Moreover, the workload may also become too much for Jens to handle in the long run.
+
 This is a dilemma about accelerating team members development, empower others to take action and building a culture where problems are eliminated at root cause.
 
 
