@@ -1,6 +1,6 @@
 # Config
  - Title: Dilemma 1: Your specialist wants to pursue another career
- - Image: https://mikkelschou.github.io/demo/leadership_dilemma_1.jpg
+ - Image: https://triggerz.github.io/nn-compass/leadership_dilemma_1.jpg
  - Next: dilemma2
 
 
