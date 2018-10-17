@@ -38,9 +38,7 @@ This is a dilemma of balancing how you develop your team members, provide sincer
 
 # Choice
 I sit down with Lone and decide to give her my sincere feedback. I tell her that I cannot be her referral and exemplify why I don't think she's ready yet. 
-
 I suggest that we develop a detailed six-month plan for her to get exposure to and training in the needed leadership skills. If she still wants to take on a leadership role after these six months, and has demonstrated growth, I will be happy to give her my full support and be her referral. 
-
 Getting Lone to stay in my team for a few more months would also buy me time to get the rest of the team more familiar with the core process.  
 
 # Variables
